@@ -1,38 +1,19 @@
-# Global Olympic Sports Performance Analysis
+# Global Olympic Performance Analysis (1992–2026)
 
-## Overview
-This project analyzes Olympic sports performance using Tableau Public. It explores medal achievements across countries, athlete participation, sport-wise performance, and historical trends across the Summer and Winter Olympic Games.
+Tableau dashboards analysing medal achievements, athlete participation, regional efficiency, sport-category performance and the relationship between sports investment and medal outcomes across Summer and Winter Games.
 
-## Objectives
-- Analyze medal distributions across countries and Olympic editions.
-- Compare national performance and all-time medal rankings.
-- Explore athlete participation and medal outcomes by sport.
-- Examine trends in medal counts over time.
-- Build interactive Tableau dashboards to communicate data-driven insights.
+## Contents
+- `workbook/Olympic_Performance_Analysis_Extracts.twbx` – packaged Tableau workbook (open in Tableau Desktop or Tableau Public)
+- `data/` – cleaned CSVs: `country_rankings`, `athletes`, `games_summary`, `medal_results`
+- `scripts/build_workbook.py` – script that generated the workbook from the CSVs
 
-## Tools and Technologies
-- Tableau Public
-- Data preprocessing and analysis
-- CSV and spreadsheet datasets
-- GitHub for project documentation and version control
+## Dashboards
+1. **Olympic Performance Dashboard** – avg medals per athlete by sport category, top 20 countries, trend of total medals awarded
+2. **Regional Efficiency Dashboard** – sports investment vs medal performance (bubble), avg medal efficiency by region, host-nation medal totals, regional medal distribution
 
-## Data Sources
-The project uses Olympic datasets covering athletes, medal results, Games summaries, and all-time country rankings.
+## Data notes
+- Column names were cleaned (e.g. `Country (Medal Results.Csv)` → `Country`).
+- `Investment Score` was added to `medal_results` (Low = 1, Medium = 2, High = 3).
 
-*Dataset links and details will be added after data-source verification.*
-
-## Planned Deliverables
-- Interactive Tableau Public dashboards
-- Visual analysis of medal trends and country performance
-- Documentation of methods, findings, and limitations
-- Published Tableau Public demo
-
-## Project Status
-**In Progress**
-
-## Links
-- **Tableau Public Demo:** To be added
-- **GitHub Repository:** This repository
-
-## Disclaimer
-Findings will be interpreted in the context of the available data. Any analysis involving sports investment will require a verified source for investment data and will not be inferred from medal counts alone.
+## Tableau Public link
+_Add your published link here._

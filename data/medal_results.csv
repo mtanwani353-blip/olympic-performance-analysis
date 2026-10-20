@@ -1,0 +1,911 @@
+Country,Gdp Tier,Host Advantage,Host City,Host Country,Host Nation,Noc Code,Olympic Edition,Region,Season,Sports Investment,Top Sport,Year,Athletes Sent,Bronze,Gold,Medal Efficiency Pct,Medal Points,Population Million,Silver,Total Medals,Investment Score
+United States,High,Non-Host,Barcelona,Spain,0,USA,1992 Summer,North America,Summer,High,Fencing,1992,287,15,9,16.725,90,335,24,48,3
+China,High,Non-Host,Barcelona,Spain,0,CHN,1992 Summer,Asia,Summer,High,Diving,1992,220,11,8,13.182,55,1411,10,29,3
+Russia,Medium,Non-Host,Barcelona,Spain,0,RUS,1992 Summer,Europe,Summer,High,Cycling,1992,171,10,7,14.62,47,144,8,25,3
+Great Britain,High,Non-Host,Barcelona,Spain,0,GBR,1992 Summer,Europe,Summer,High,Pentathlon,1992,139,7,9,15.108,44,67,5,21,3
+Germany,High,Non-Host,Barcelona,Spain,0,GER,1992 Summer,Europe,Summer,High,Table Tennis,1992,143,3,10,10.49,37,84,2,15,3
+Australia,High,Non-Host,Barcelona,Spain,0,AUS,1992 Summer,Oceania,Summer,High,Handball,1992,106,2,7,11.321,29,26,3,12,3
+France,High,Non-Host,Barcelona,Spain,0,FRA,1992 Summer,Europe,Summer,High,Canoe/Kayak,1992,91,5,7,20.879,40,68,7,19,3
+Japan,High,Non-Host,Barcelona,Spain,0,JPN,1992 Summer,Asia,Summer,High,Taekwondo,1992,98,6,5,16.327,31,125,5,16,3
+South Korea,High,Non-Host,Barcelona,Spain,0,KOR,1992 Summer,Asia,Summer,Medium,Equestrian,1992,80,3,6,12.5,23,52,1,10,2
+Italy,High,Non-Host,Barcelona,Spain,0,ITA,1992 Summer,Europe,Summer,Medium,Rugby Sevens,1992,91,3,2,9.89,17,59,4,9,2
+Netherlands,High,Non-Host,Barcelona,Spain,0,NED,1992 Summer,Europe,Summer,Medium,Equestrian,1992,85,1,0,3.529,5,18,2,3,2
+Hungary,Medium,Non-Host,Barcelona,Spain,0,HUN,1992 Summer,Europe,Summer,High,Triathlon,1992,60,5,2,15.0,15,10,2,9,3
+Norway,High,Non-Host,Barcelona,Spain,0,NOR,1992 Summer,Europe,Summer,High,Badminton,1992,63,2,2,6.349,8,5,0,4,3
+Canada,High,Non-Host,Barcelona,Spain,0,CAN,1992 Summer,North America,Summer,Medium,Diving,1992,50,0,2,10.0,12,38,3,5,2
+New Zealand,High,Non-Host,Barcelona,Spain,0,NZL,1992 Summer,Oceania,Summer,Medium,Canoe/Kayak,1992,37,1,1,8.108,6,5,1,3,2
+Cuba,Low,Non-Host,Barcelona,Spain,0,CUB,1992 Summer,North America,Summer,High,Equestrian,1992,11,1,0,9.091,1,11,0,1,3
+Kenya,Low,Non-Host,Barcelona,Spain,0,KEN,1992 Summer,Africa,Summer,Medium,Rugby Sevens,1992,20,2,0,10.0,2,55,0,2,2
+Brazil,Medium,Non-Host,Barcelona,Spain,0,BRA,1992 Summer,South America,Summer,Medium,Boxing,1992,23,2,0,8.696,2,215,0,2,2
+Spain,High,Host Nation,Barcelona,Spain,1,ESP,1992 Summer,Europe,Summer,Medium,Football/Soccer,1992,38,0,0,2.632,2,47,1,1,2
+Ukraine,Medium,Non-Host,Barcelona,Spain,0,UKR,1992 Summer,Europe,Summer,Medium,Rowing,1992,10,0,1,20.0,5,44,1,2,2
+Sweden,High,Non-Host,Barcelona,Spain,0,SWE,1992 Summer,Europe,Summer,Medium,Pentathlon,1992,10,0,0,10.0,2,10,1,1,2
+Denmark,High,Non-Host,Barcelona,Spain,0,DEN,1992 Summer,Europe,Summer,Medium,Hockey (Field),1992,22,2,0,9.091,2,6,0,2,2
+Switzerland,High,Non-Host,Barcelona,Spain,0,SUI,1992 Summer,Europe,Summer,Medium,Shooting,1992,24,1,2,20.833,11,9,2,5,2
+Austria,High,Non-Host,Barcelona,Spain,0,AUT,1992 Summer,Europe,Summer,Medium,Diving,1992,38,0,0,2.632,2,9,1,1,2
+Belgium,High,Non-Host,Barcelona,Spain,0,BEL,1992 Summer,Europe,Summer,Low,Sport Climbing,1992,30,1,0,3.333,1,11,0,1,1
+Poland,Medium,Non-Host,Barcelona,Spain,0,POL,1992 Summer,Europe,Summer,Medium,Weightlifting,1992,29,1,2,17.241,11,38,2,5,2
+Romania,Medium,Non-Host,Barcelona,Spain,0,ROU,1992 Summer,Europe,Summer,Medium,Badminton,1992,16,1,0,6.25,1,19,0,1,2
+Jamaica,Low,Non-Host,Barcelona,Spain,0,JAM,1992 Summer,North America,Summer,Medium,Equestrian,1992,11,0,0,27.273,6,3,3,3,2
+India,Medium,Non-Host,Barcelona,Spain,0,IND,1992 Summer,Asia,Summer,Low,Judo,1992,16,1,0,12.5,3,1400,1,2,1
+South Africa,Medium,Non-Host,Barcelona,Spain,0,RSA,1992 Summer,Africa,Summer,Low,Fencing,1992,20,0,1,5.0,3,60,0,1,1
+Argentina,Medium,Non-Host,Barcelona,Spain,0,ARG,1992 Summer,South America,Summer,Low,Handball,1992,12,0,0,16.667,4,46,2,2,1
+Iran,Medium,Non-Host,Barcelona,Spain,0,IRI,1992 Summer,Asia,Summer,Medium,Water Polo,1992,22,1,1,9.091,4,86,0,2,2
+Kazakhstan,Medium,Non-Host,Barcelona,Spain,0,KAZ,1992 Summer,Asia,Summer,Medium,Volleyball,1992,14,0,1,14.286,5,19,1,2,2
+Belarus,Medium,Non-Host,Barcelona,Spain,0,BLR,1992 Summer,Europe,Summer,Medium,Rugby Sevens,1992,34,0,3,14.706,13,10,2,5,2
+Croatia,Medium,Non-Host,Barcelona,Spain,0,CRO,1992 Summer,Europe,Summer,Medium,Tennis,1992,25,0,0,12.0,6,4,3,3,2
+Greece,Medium,Non-Host,Barcelona,Spain,0,GRE,1992 Summer,Europe,Summer,Low,Football/Soccer,1992,12,0,1,8.333,3,10,0,1,1
+North Korea,Low,Non-Host,Barcelona,Spain,0,PRK,1992 Summer,Asia,Summer,High,Water Polo,1992,10,1,0,10.0,1,26,0,1,3
+Bahrain,High,Non-Host,Barcelona,Spain,0,BRN,1992 Summer,Asia,Summer,Medium,Cycling,1992,18,0,0,5.556,2,2,1,1,2
+Morocco,Low,Non-Host,Barcelona,Spain,0,MAR,1992 Summer,Africa,Summer,Low,Surfing,1992,20,1,0,10.0,3,37,1,2,1
+Uganda,Low,Non-Host,Barcelona,Spain,0,UGA,1992 Summer,Africa,Summer,Low,Triathlon,1992,28,0,2,7.143,6,47,0,2,1
+Georgia,Low,Non-Host,Barcelona,Spain,0,GEO,1992 Summer,Europe/Asia,Summer,Medium,Surfing,1992,21,1,3,23.81,12,4,1,5,2
+Azerbaijan,Medium,Non-Host,Barcelona,Spain,0,AZE,1992 Summer,Europe/Asia,Summer,Medium,Cycling,1992,4,0,1,75.0,7,10,2,3,2
+Slovakia,Medium,Non-Host,Barcelona,Spain,0,SVK,1992 Summer,Europe,Summer,Medium,Surfing,1992,20,1,0,30.0,11,5,5,6,2
+Finland,High,Non-Host,Barcelona,Spain,0,FIN,1992 Summer,Europe,Summer,Medium,Gymnastics,1992,5,0,2,80.0,10,6,2,4,2
+Slovenia,High,Non-Host,Barcelona,Spain,0,SLO,1992 Summer,Europe,Summer,Medium,Taekwondo,1992,37,1,1,10.811,8,2,2,4,2
+Latvia,Medium,Non-Host,Barcelona,Spain,0,LAT,1992 Summer,Europe,Summer,Medium,Hockey (Field),1992,18,0,3,27.778,13,2,2,5,2
+Estonia,High,Non-Host,Barcelona,Spain,0,EST,1992 Summer,Europe,Summer,Medium,Water Polo,1992,1,0,0,300.0,6,1,3,3,2
+Lithuania,Medium,Non-Host,Barcelona,Spain,0,LTU,1992 Summer,Europe,Summer,Medium,Handball,1992,22,3,0,13.636,3,3,0,3,2
+Uzbekistan,Low,Non-Host,Barcelona,Spain,0,UZB,1992 Summer,Asia,Summer,Medium,Rugby Sevens,1992,31,2,0,9.677,4,35,1,3,2
+Thailand,Medium,Non-Host,Barcelona,Spain,0,THA,1992 Summer,Asia,Summer,Low,Surfing,1992,16,2,1,18.75,5,70,0,3,1
+Dominican Republic,Low,Non-Host,Barcelona,Spain,0,DOM,1992 Summer,North America,Summer,Low,Archery,1992,36,2,0,5.556,2,11,0,2,1
+Colombia,Medium,Non-Host,Barcelona,Spain,0,COL,1992 Summer,South America,Summer,Low,Basketball,1992,16,1,1,12.5,4,51,0,2,1
+Armenia,Low,Non-Host,Barcelona,Spain,0,ARM,1992 Summer,Europe/Asia,Summer,Medium,Rowing,1992,14,1,1,14.286,4,3,0,2,2
+Mongolia,Low,Non-Host,Barcelona,Spain,0,MGL,1992 Summer,Asia,Summer,Medium,Pentathlon,1992,29,0,2,6.897,6,3,0,2,2
+Indonesia,Medium,Non-Host,Barcelona,Spain,0,INA,1992 Summer,Asia,Summer,Low,Rugby Sevens,1992,9,1,0,11.111,1,275,0,1,1
+Philippines,Low,Non-Host,Barcelona,Spain,0,PHI,1992 Summer,Asia,Summer,Low,Athletics,1992,21,1,1,9.524,4,115,0,2,1
+United States,High,Non-Host,Lillehammer,Norway,0,USA,1994 Winter,North America,Winter,High,Figure Skating,1994,302,17,12,12.252,69,335,8,37,3
+China,High,Non-Host,Lillehammer,Norway,0,CHN,1994 Winter,Asia,Winter,High,Cross-Country Skiing,1994,242,10,11,9.917,49,1411,3,24,3
+Russia,Medium,Non-Host,Lillehammer,Norway,0,RUS,1994 Winter,Europe,Winter,High,Alpine Skiing,1994,197,12,7,17.259,63,144,15,34,3
+Great Britain,High,Non-Host,Lillehammer,Norway,0,GBR,1994 Winter,Europe,Winter,High,Luge,1994,145,9,8,17.931,51,67,9,26,3
+Germany,High,Non-Host,Lillehammer,Norway,0,GER,1994 Winter,Europe,Winter,High,Curling,1994,163,11,6,13.497,39,84,5,22,3
+Australia,High,Non-Host,Lillehammer,Norway,0,AUS,1994 Winter,Oceania,Winter,High,Bobsled,1994,127,4,6,12.598,34,26,6,16,3
+France,High,Non-Host,Lillehammer,Norway,0,FRA,1994 Winter,Europe,Winter,High,Cross-Country Skiing,1994,81,4,5,14.815,25,68,3,12,3
+Japan,High,Non-Host,Lillehammer,Norway,0,JPN,1994 Winter,Asia,Winter,High,Speed Skating,1994,132,4,6,10.606,30,125,4,14,3
+South Korea,High,Non-Host,Lillehammer,Norway,0,KOR,1994 Winter,Asia,Winter,Medium,Nordic Combined,1994,77,3,2,10.39,15,52,3,8,2
+Italy,High,Non-Host,Lillehammer,Norway,0,ITA,1994 Winter,Europe,Winter,Medium,Alpine Skiing,1994,89,3,4,15.73,29,59,7,14,2
+Netherlands,High,Non-Host,Lillehammer,Norway,0,NED,1994 Winter,Europe,Winter,Medium,Skeleton,1994,78,2,1,5.128,7,18,1,4,2
+Hungary,Medium,Non-Host,Lillehammer,Norway,0,HUN,1994 Winter,Europe,Winter,High,Biathlon Mixed Relay,1994,74,6,5,20.27,29,10,4,15,3
+Norway,High,Host Nation,Lillehammer,Norway,1,NOR,1994 Winter,Europe,Winter,High,Luge,1994,98,5,4,13.265,25,5,4,13,3
+Canada,High,Non-Host,Lillehammer,Norway,0,CAN,1994 Winter,North America,Winter,Medium,Ice Hockey,1994,65,3,5,12.308,18,38,0,8,2
+New Zealand,High,Non-Host,Lillehammer,Norway,0,NZL,1994 Winter,Oceania,Winter,Medium,Nordic Combined,1994,39,3,0,7.692,3,5,0,3,2
+Ukraine,Medium,Non-Host,Lillehammer,Norway,0,UKR,1994 Winter,Europe,Winter,Medium,Cross-Country Skiing,1994,13,2,0,23.077,4,44,1,3,2
+Sweden,High,Non-Host,Lillehammer,Norway,0,SWE,1994 Winter,Europe,Winter,Medium,Alpine Skiing,1994,13,1,1,23.077,6,10,1,3,2
+Denmark,High,Non-Host,Lillehammer,Norway,0,DEN,1994 Winter,Europe,Winter,Medium,Alpine Skiing,1994,1,1,0,200.0,3,6,1,2,2
+Switzerland,High,Non-Host,Lillehammer,Norway,0,SUI,1994 Winter,Europe,Winter,Medium,Curling,1994,15,0,1,13.333,5,9,1,2,2
+Austria,High,Non-Host,Lillehammer,Norway,0,AUT,1994 Winter,Europe,Winter,Medium,Alpine Skiing,1994,27,3,1,14.815,6,9,0,4,2
+Belgium,High,Non-Host,Lillehammer,Norway,0,BEL,1994 Winter,Europe,Winter,Low,Skeleton,1994,32,2,0,9.375,4,11,1,3,1
+Poland,Medium,Non-Host,Lillehammer,Norway,0,POL,1994 Winter,Europe,Winter,Medium,Figure Skating,1994,36,3,0,11.111,5,38,1,4,2
+Czech Republic,Medium,Non-Host,Lillehammer,Norway,0,CZE,1994 Winter,Europe,Winter,Medium,Luge,1994,4,0,3,75.0,9,11,0,3,2
+Romania,Medium,Non-Host,Lillehammer,Norway,0,ROU,1994 Winter,Europe,Winter,Medium,Alpine Skiing,1994,35,2,1,14.286,9,19,2,5,2
+Argentina,Medium,Non-Host,Lillehammer,Norway,0,ARG,1994 Winter,South America,Winter,Low,Short Track,1994,19,1,2,15.789,7,46,0,3,1
+Mexico,Medium,Non-Host,Lillehammer,Norway,0,MEX,1994 Winter,North America,Winter,Low,Curling,1994,17,3,2,29.412,9,130,0,5,1
+Turkey,Medium,Non-Host,Lillehammer,Norway,0,TUR,1994 Winter,Europe/Asia,Winter,Medium,Ski Jumping,1994,1,1,1,300.0,6,85,1,3,2
+Iran,Medium,Non-Host,Lillehammer,Norway,0,IRI,1994 Winter,Asia,Winter,Medium,Short Track,1994,33,0,0,3.03,2,86,1,1,2
+Kazakhstan,Medium,Non-Host,Lillehammer,Norway,0,KAZ,1994 Winter,Asia,Winter,Medium,Figure Skating,1994,28,0,2,7.143,6,19,0,2,2
+Belarus,Medium,Non-Host,Lillehammer,Norway,0,BLR,1994 Winter,Europe,Winter,Medium,Freestyle Skiing,1994,1,0,1,100.0,3,10,0,1,2
+Croatia,Medium,Non-Host,Lillehammer,Norway,0,CRO,1994 Winter,Europe,Winter,Medium,Cross-Country Skiing,1994,1,2,0,300.0,4,4,1,3,2
+Greece,Medium,Non-Host,Lillehammer,Norway,0,GRE,1994 Winter,Europe,Winter,Low,Short Track,1994,11,0,1,9.091,3,10,0,1,1
+North Korea,Low,Non-Host,Lillehammer,Norway,0,PRK,1994 Winter,Asia,Winter,High,Luge,1994,23,3,0,21.739,7,26,2,5,3
+Bahrain,High,Non-Host,Lillehammer,Norway,0,BRN,1994 Winter,Asia,Winter,Medium,Ski Jumping,1994,32,0,2,6.25,6,2,0,2,2
+Morocco,Low,Non-Host,Lillehammer,Norway,0,MAR,1994 Winter,Africa,Winter,Low,Speed Skating,1994,21,0,1,9.524,5,37,1,2,1
+Uganda,Low,Non-Host,Lillehammer,Norway,0,UGA,1994 Winter,Africa,Winter,Low,Ski Jumping,1994,5,2,2,100.0,10,47,1,5,1
+Georgia,Low,Non-Host,Lillehammer,Norway,0,GEO,1994 Winter,Europe/Asia,Winter,Medium,Curling,1994,33,0,1,3.03,3,4,0,1,2
+Azerbaijan,Medium,Non-Host,Lillehammer,Norway,0,AZE,1994 Winter,Europe/Asia,Winter,Medium,Skeleton,1994,46,0,1,6.522,7,10,2,3,2
+Slovakia,Medium,Non-Host,Lillehammer,Norway,0,SVK,1994 Winter,Europe,Winter,Medium,Snowboard,1994,20,2,3,30.0,13,5,1,6,2
+Finland,High,Non-Host,Lillehammer,Norway,0,FIN,1994 Winter,Europe,Winter,Medium,Ice Hockey,1994,56,1,1,3.571,4,6,0,2,2
+Slovenia,High,Non-Host,Lillehammer,Norway,0,SLO,1994 Winter,Europe,Winter,Medium,Speed Skating,1994,26,1,0,3.846,1,2,0,1,2
+Latvia,Medium,Non-Host,Lillehammer,Norway,0,LAT,1994 Winter,Europe,Winter,Medium,Ski Jumping,1994,1,1,3,500.0,12,2,1,5,2
+Estonia,High,Non-Host,Lillehammer,Norway,0,EST,1994 Winter,Europe,Winter,Medium,Luge,1994,10,1,2,30.0,7,1,0,3,2
+Lithuania,Medium,Non-Host,Lillehammer,Norway,0,LTU,1994 Winter,Europe,Winter,Medium,Luge,1994,4,1,2,75.0,7,3,0,3,2
+Uzbekistan,Low,Non-Host,Lillehammer,Norway,0,UZB,1994 Winter,Asia,Winter,Medium,Freestyle Skiing,1994,7,0,0,14.286,2,35,1,1,2
+Armenia,Low,Non-Host,Lillehammer,Norway,0,ARM,1994 Winter,Europe/Asia,Winter,Medium,Curling,1994,34,0,1,2.941,3,3,0,1,2
+Mongolia,Low,Non-Host,Lillehammer,Norway,0,MGL,1994 Winter,Asia,Winter,Medium,Cross-Country Skiing,1994,33,1,0,6.061,3,3,1,2,2
+United States,High,Host Nation,Atlanta,United States,1,USA,1996 Summer,North America,Summer,High,Equestrian,1996,398,27,19,14.573,108,335,12,58,3
+China,High,Non-Host,Atlanta,United States,0,CHN,1996 Summer,Asia,Summer,High,Athletics,1996,258,15,13,15.504,78,1411,12,40,3
+Russia,Medium,Non-Host,Atlanta,United States,0,RUS,1996 Summer,Europe,Summer,High,Water Polo,1996,207,9,6,13.043,51,144,12,27,3
+Great Britain,High,Non-Host,Atlanta,United States,0,GBR,1996 Summer,Europe,Summer,High,Wrestling,1996,147,7,7,12.925,38,67,5,19,3
+Germany,High,Non-Host,Atlanta,United States,0,GER,1996 Summer,Europe,Summer,High,Cycling,1996,179,8,4,10.615,34,84,7,19,3
+Australia,High,Non-Host,Atlanta,United States,0,AUS,1996 Summer,Oceania,Summer,High,Shooting,1996,112,4,6,11.607,28,26,3,13,3
+France,High,Non-Host,Atlanta,United States,0,FRA,1996 Summer,Europe,Summer,High,Handball,1996,104,2,2,6.731,14,68,3,7,3
+Japan,High,Non-Host,Atlanta,United States,0,JPN,1996 Summer,Asia,Summer,High,Football/Soccer,1996,106,4,4,14.151,30,125,7,15,3
+South Korea,High,Non-Host,Atlanta,United States,0,KOR,1996 Summer,Asia,Summer,Medium,Water Polo,1996,53,4,1,11.321,9,52,1,6,2
+Italy,High,Non-Host,Atlanta,United States,0,ITA,1996 Summer,Europe,Summer,Medium,Pentathlon,1996,33,3,4,30.303,21,59,3,10,2
+Netherlands,High,Non-Host,Atlanta,United States,0,NED,1996 Summer,Europe,Summer,Medium,Gymnastics,1996,72,1,6,12.5,23,18,2,9,2
+Hungary,Medium,Non-Host,Atlanta,United States,0,HUN,1996 Summer,Europe,Summer,High,Cycling,1996,54,3,2,12.963,13,10,2,7,3
+Norway,High,Non-Host,Atlanta,United States,0,NOR,1996 Summer,Europe,Summer,High,Canoe/Kayak,1996,40,2,0,5.0,2,5,0,2,3
+Canada,High,Non-Host,Atlanta,United States,0,CAN,1996 Summer,North America,Summer,Medium,Badminton,1996,96,5,3,9.375,16,38,1,9,2
+New Zealand,High,Non-Host,Atlanta,United States,0,NZL,1996 Summer,Oceania,Summer,Medium,Tennis,1996,34,2,0,8.824,4,5,1,3,2
+Kenya,Low,Non-Host,Atlanta,United States,0,KEN,1996 Summer,Africa,Summer,Medium,Swimming,1996,20,1,0,5.0,1,55,0,1,2
+Ethiopia,Low,Non-Host,Atlanta,United States,0,ETH,1996 Summer,Africa,Summer,Low,Table Tennis,1996,1,1,0,100.0,1,120,0,1,1
+Brazil,Medium,Non-Host,Atlanta,United States,0,BRA,1996 Summer,South America,Summer,Medium,Wrestling,1996,1,0,0,100.0,2,215,1,1,2
+Spain,High,Non-Host,Atlanta,United States,0,ESP,1996 Summer,Europe,Summer,Medium,Rowing,1996,34,1,2,11.765,9,47,1,4,2
+Ukraine,Medium,Non-Host,Atlanta,United States,0,UKR,1996 Summer,Europe,Summer,Medium,Diving,1996,30,2,0,6.667,2,44,0,2,2
+Sweden,High,Non-Host,Atlanta,United States,0,SWE,1996 Summer,Europe,Summer,Medium,Golf,1996,21,1,0,4.762,1,10,0,1,2
+Denmark,High,Non-Host,Atlanta,United States,0,DEN,1996 Summer,Europe,Summer,Medium,Badminton,1996,12,1,1,16.667,4,6,0,2,2
+Belgium,High,Non-Host,Atlanta,United States,0,BEL,1996 Summer,Europe,Summer,Low,Canoe/Kayak,1996,23,3,2,26.087,11,11,1,6,1
+Poland,Medium,Non-Host,Atlanta,United States,0,POL,1996 Summer,Europe,Summer,Medium,Golf,1996,1,1,1,300.0,6,38,1,3,2
+Romania,Medium,Non-Host,Atlanta,United States,0,ROU,1996 Summer,Europe,Summer,Medium,Rugby Sevens,1996,22,1,0,4.545,1,19,0,1,2
+Jamaica,Low,Non-Host,Atlanta,United States,0,JAM,1996 Summer,North America,Summer,Medium,Shooting,1996,34,0,1,8.824,7,3,2,3,2
+India,Medium,Non-Host,Atlanta,United States,0,IND,1996 Summer,Asia,Summer,Low,Golf,1996,38,0,0,2.632,2,1400,1,1,1
+South Africa,Medium,Non-Host,Atlanta,United States,0,RSA,1996 Summer,Africa,Summer,Low,Triathlon,1996,21,0,1,4.762,3,60,0,1,1
+Argentina,Medium,Non-Host,Atlanta,United States,0,ARG,1996 Summer,South America,Summer,Low,Badminton,1996,20,0,1,5.0,3,46,0,1,1
+Mexico,Medium,Non-Host,Atlanta,United States,0,MEX,1996 Summer,North America,Summer,Low,Sailing,1996,4,2,0,125.0,8,130,3,5,1
+Turkey,Medium,Non-Host,Atlanta,United States,0,TUR,1996 Summer,Europe/Asia,Summer,Medium,Breakdancing,1996,1,1,0,100.0,1,85,0,1,2
+Iran,Medium,Non-Host,Atlanta,United States,0,IRI,1996 Summer,Asia,Summer,Medium,Rowing,1996,6,1,0,16.667,1,86,0,1,2
+Kazakhstan,Medium,Non-Host,Atlanta,United States,0,KAZ,1996 Summer,Asia,Summer,Medium,Sport Climbing,1996,29,2,0,10.345,4,19,1,3,2
+Belarus,Medium,Non-Host,Atlanta,United States,0,BLR,1996 Summer,Europe,Summer,Medium,Golf,1996,12,0,0,25.0,6,10,3,3,2
+Croatia,Medium,Non-Host,Atlanta,United States,0,CRO,1996 Summer,Europe,Summer,Medium,Pentathlon,1996,18,0,2,11.111,6,4,0,2,2
+North Korea,Low,Non-Host,Atlanta,United States,0,PRK,1996 Summer,Asia,Summer,High,Table Tennis,1996,12,0,0,8.333,2,26,1,1,3
+Bahrain,High,Non-Host,Atlanta,United States,0,BRN,1996 Summer,Asia,Summer,Medium,Shooting,1996,66,2,1,6.061,7,2,1,4,2
+Morocco,Low,Non-Host,Atlanta,United States,0,MAR,1996 Summer,Africa,Summer,Low,Basketball,1996,24,0,0,4.167,2,37,1,1,1
+Georgia,Low,Non-Host,Atlanta,United States,0,GEO,1996 Summer,Europe/Asia,Summer,Medium,Canoe/Kayak,1996,31,0,0,3.226,2,4,1,1,2
+Azerbaijan,Medium,Non-Host,Atlanta,United States,0,AZE,1996 Summer,Europe/Asia,Summer,Medium,Volleyball,1996,5,0,1,20.0,3,10,0,1,2
+Slovakia,Medium,Non-Host,Atlanta,United States,0,SVK,1996 Summer,Europe,Summer,Medium,Equestrian,1996,32,1,1,12.5,8,5,2,4,2
+Finland,High,Non-Host,Atlanta,United States,0,FIN,1996 Summer,Europe,Summer,Medium,Table Tennis,1996,22,1,0,9.091,3,6,1,2,2
+Slovenia,High,Non-Host,Atlanta,United States,0,SLO,1996 Summer,Europe,Summer,Medium,Triathlon,1996,15,2,1,20.0,5,2,0,3,2
+Latvia,Medium,Non-Host,Atlanta,United States,0,LAT,1996 Summer,Europe,Summer,Medium,Rowing,1996,9,1,1,33.333,6,2,1,3,2
+Estonia,High,Non-Host,Atlanta,United States,0,EST,1996 Summer,Europe,Summer,Medium,Athletics,1996,57,2,0,3.509,2,1,0,2,2
+Lithuania,Medium,Non-Host,Atlanta,United States,0,LTU,1996 Summer,Europe,Summer,Medium,Shooting,1996,43,1,0,4.651,3,3,1,2,2
+Uzbekistan,Low,Non-Host,Atlanta,United States,0,UZB,1996 Summer,Asia,Summer,Medium,Boxing,1996,1,1,2,300.0,7,35,0,3,2
+Thailand,Medium,Non-Host,Atlanta,United States,0,THA,1996 Summer,Asia,Summer,Low,Canoe/Kayak,1996,12,2,0,25.0,4,70,1,3,1
+Dominican Republic,Low,Non-Host,Atlanta,United States,0,DOM,1996 Summer,North America,Summer,Low,Boxing,1996,3,1,1,66.667,4,11,0,2,1
+Colombia,Medium,Non-Host,Atlanta,United States,0,COL,1996 Summer,South America,Summer,Low,Rugby Sevens,1996,12,1,0,8.333,1,51,0,1,1
+Mongolia,Low,Non-Host,Atlanta,United States,0,MGL,1996 Summer,Asia,Summer,Medium,Table Tennis,1996,37,0,3,8.108,9,3,0,3,2
+Indonesia,Medium,Non-Host,Atlanta,United States,0,INA,1996 Summer,Asia,Summer,Low,Table Tennis,1996,16,0,0,6.25,2,275,1,1,1
+Philippines,Low,Non-Host,Atlanta,United States,0,PHI,1996 Summer,Asia,Summer,Low,Shooting,1996,12,1,0,16.667,3,115,1,2,1
+United States,High,Non-Host,Nagano,Japan,0,USA,1998 Winter,North America,Winter,High,Speed Skating,1998,306,16,19,15.033,95,335,11,46,3
+China,High,Non-Host,Nagano,Japan,0,CHN,1998 Winter,Asia,Winter,High,Cross-Country Skiing,1998,260,8,6,9.615,48,1411,11,25,3
+Russia,Medium,Non-Host,Nagano,Japan,0,RUS,1998 Winter,Europe,Winter,High,Ice Hockey,1998,196,11,7,13.265,48,144,8,26,3
+Great Britain,High,Non-Host,Nagano,Japan,0,GBR,1998 Winter,Europe,Winter,High,Alpine Skiing,1998,148,5,4,10.135,29,67,6,15,3
+Germany,High,Non-Host,Nagano,Japan,0,GER,1998 Winter,Europe,Winter,High,Biathlon Mixed Relay,1998,149,8,5,11.409,31,84,4,17,3
+Australia,High,Non-Host,Nagano,Japan,0,AUS,1998 Winter,Oceania,Winter,High,Ice Hockey,1998,120,7,4,14.167,31,26,6,17,3
+France,High,Non-Host,Nagano,Japan,0,FRA,1998 Winter,Europe,Winter,High,Alpine Skiing,1998,110,5,7,16.364,38,68,6,18,3
+Japan,High,Host Nation,Nagano,Japan,1,JPN,1998 Winter,Asia,Winter,High,Speed Skating,1998,154,9,8,15.584,47,125,7,24,3
+South Korea,High,Non-Host,Nagano,Japan,0,KOR,1998 Winter,Asia,Winter,Medium,Biathlon,1998,76,7,3,19.737,26,52,5,15,2
+Italy,High,Non-Host,Nagano,Japan,0,ITA,1998 Winter,Europe,Winter,Medium,Figure Skating,1998,53,4,3,20.755,21,59,4,11,2
+Netherlands,High,Non-Host,Nagano,Japan,0,NED,1998 Winter,Europe,Winter,Medium,Nordic Combined,1998,74,0,8,12.162,26,18,1,9,2
+Hungary,Medium,Non-Host,Nagano,Japan,0,HUN,1998 Winter,Europe,Winter,High,Ice Hockey,1998,31,3,1,22.581,12,10,3,7,3
+Norway,High,Non-Host,Nagano,Japan,0,NOR,1998 Winter,Europe,Winter,High,Freestyle Skiing,1998,87,2,2,6.897,12,5,2,6,3
+Canada,High,Non-Host,Nagano,Japan,0,CAN,1998 Winter,North America,Winter,Medium,Ice Hockey,1998,63,5,6,20.635,27,38,2,13,2
+New Zealand,High,Non-Host,Nagano,Japan,0,NZL,1998 Winter,Oceania,Winter,Medium,Speed Skating,1998,26,1,0,7.692,3,5,1,2,2
+Spain,High,Non-Host,Nagano,Japan,0,ESP,1998 Winter,Europe,Winter,Medium,Skeleton,1998,50,3,3,14.0,14,47,1,7,2
+Sweden,High,Non-Host,Nagano,Japan,0,SWE,1998 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,1998,30,0,2,6.667,6,10,0,2,2
+Denmark,High,Non-Host,Nagano,Japan,0,DEN,1998 Winter,Europe,Winter,Medium,Curling,1998,35,2,0,5.714,2,6,0,2,2
+Austria,High,Non-Host,Nagano,Japan,0,AUT,1998 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,1998,1,1,0,100.0,1,9,0,1,2
+Belgium,High,Non-Host,Nagano,Japan,0,BEL,1998 Winter,Europe,Winter,Low,Short Track,1998,36,1,0,2.778,1,11,0,1,1
+Poland,Medium,Non-Host,Nagano,Japan,0,POL,1998 Winter,Europe,Winter,Medium,Curling,1998,33,1,1,9.091,6,38,1,3,2
+Czech Republic,Medium,Non-Host,Nagano,Japan,0,CZE,1998 Winter,Europe,Winter,Medium,Ski Jumping,1998,9,0,1,33.333,7,11,2,3,2
+Romania,Medium,Non-Host,Nagano,Japan,0,ROU,1998 Winter,Europe,Winter,Medium,Short Track,1998,39,0,2,5.128,6,19,0,2,2
+South Africa,Medium,Non-Host,Nagano,Japan,0,RSA,1998 Winter,Africa,Winter,Low,Speed Skating,1998,29,1,0,6.897,3,60,1,2,1
+Argentina,Medium,Non-Host,Nagano,Japan,0,ARG,1998 Winter,South America,Winter,Low,Skeleton,1998,1,0,1,100.0,3,46,0,1,1
+Mexico,Medium,Non-Host,Nagano,Japan,0,MEX,1998 Winter,North America,Winter,Low,Snowboard,1998,21,1,1,14.286,6,130,1,3,1
+Turkey,Medium,Non-Host,Nagano,Japan,0,TUR,1998 Winter,Europe/Asia,Winter,Medium,Nordic Combined,1998,1,1,1,400.0,8,85,2,4,2
+Iran,Medium,Non-Host,Nagano,Japan,0,IRI,1998 Winter,Asia,Winter,Medium,Freestyle Skiing,1998,1,4,0,500.0,6,86,1,5,2
+Kazakhstan,Medium,Non-Host,Nagano,Japan,0,KAZ,1998 Winter,Asia,Winter,Medium,Nordic Combined,1998,9,2,0,33.333,4,19,1,3,2
+Belarus,Medium,Non-Host,Nagano,Japan,0,BLR,1998 Winter,Europe,Winter,Medium,Bobsled,1998,8,1,1,37.5,6,10,1,3,2
+Greece,Medium,Non-Host,Nagano,Japan,0,GRE,1998 Winter,Europe,Winter,Low,Snowboard,1998,37,0,1,8.108,7,10,2,3,1
+North Korea,Low,Non-Host,Nagano,Japan,0,PRK,1998 Winter,Asia,Winter,High,Bobsled,1998,32,0,0,3.125,2,26,1,1,3
+Bahrain,High,Non-Host,Nagano,Japan,0,BRN,1998 Winter,Asia,Winter,Medium,Nordic Combined,1998,27,1,1,18.519,10,2,3,5,2
+Morocco,Low,Non-Host,Nagano,Japan,0,MAR,1998 Winter,Africa,Winter,Low,Skeleton,1998,13,0,1,23.077,7,37,2,3,1
+Uganda,Low,Non-Host,Nagano,Japan,0,UGA,1998 Winter,Africa,Winter,Low,Ice Hockey,1998,15,2,0,13.333,2,47,0,2,1
+Georgia,Low,Non-Host,Nagano,Japan,0,GEO,1998 Winter,Europe/Asia,Winter,Medium,Skeleton,1998,27,0,2,7.407,6,4,0,2,2
+Azerbaijan,Medium,Non-Host,Nagano,Japan,0,AZE,1998 Winter,Europe/Asia,Winter,Medium,Nordic Combined,1998,7,0,0,28.571,4,10,2,2,2
+Slovakia,Medium,Non-Host,Nagano,Japan,0,SVK,1998 Winter,Europe,Winter,Medium,Biathlon,1998,39,2,0,5.128,2,5,0,2,2
+Finland,High,Non-Host,Nagano,Japan,0,FIN,1998 Winter,Europe,Winter,Medium,Nordic Combined,1998,18,1,1,11.111,4,6,0,2,2
+Slovenia,High,Non-Host,Nagano,Japan,0,SLO,1998 Winter,Europe,Winter,Medium,Ski Jumping,1998,33,1,0,3.03,1,2,0,1,2
+Estonia,High,Non-Host,Nagano,Japan,0,EST,1998 Winter,Europe,Winter,Medium,Bobsled,1998,7,1,0,28.571,3,1,1,2,2
+Lithuania,Medium,Non-Host,Nagano,Japan,0,LTU,1998 Winter,Europe,Winter,Medium,Snowboard,1998,24,0,0,4.167,2,3,1,1,2
+Uzbekistan,Low,Non-Host,Nagano,Japan,0,UZB,1998 Winter,Asia,Winter,Medium,Bobsled,1998,27,2,1,14.815,7,35,1,4,2
+Armenia,Low,Non-Host,Nagano,Japan,0,ARM,1998 Winter,Europe/Asia,Winter,Medium,Cross-Country Skiing,1998,29,0,1,3.448,3,3,0,1,2
+Mongolia,Low,Non-Host,Nagano,Japan,0,MGL,1998 Winter,Asia,Winter,Medium,Ice Hockey,1998,11,3,1,36.364,6,3,0,4,2
+United States,High,Non-Host,Sydney,Australia,0,USA,2000 Summer,North America,Summer,High,Water Polo,2000,312,12,9,9.295,55,335,8,29,3
+China,High,Non-Host,Sydney,Australia,0,CHN,2000 Summer,Asia,Summer,High,Judo,2000,251,8,9,11.554,59,1411,12,29,3
+Russia,Medium,Non-Host,Sydney,Australia,0,RUS,2000 Summer,Europe,Summer,High,Canoe/Kayak,2000,184,5,6,7.065,27,144,2,13,3
+Great Britain,High,Non-Host,Sydney,Australia,0,GBR,2000 Summer,Europe,Summer,High,Athletics,2000,151,5,3,9.272,26,67,6,14,3
+Germany,High,Non-Host,Sydney,Australia,0,GER,2000 Summer,Europe,Summer,High,Skateboarding,2000,153,7,12,16.34,55,84,6,25,3
+Australia,High,Host Nation,Sydney,Australia,1,AUS,2000 Summer,Oceania,Summer,High,Pentathlon,2000,171,4,6,8.187,30,26,4,14,3
+France,High,Non-Host,Sydney,Australia,0,FRA,2000 Summer,Europe,Summer,High,Volleyball,2000,109,8,4,11.009,20,68,0,12,3
+Japan,High,Non-Host,Sydney,Australia,0,JPN,2000 Summer,Asia,Summer,High,Golf,2000,125,5,11,16.0,46,125,4,20,3
+South Korea,High,Non-Host,Sydney,Australia,0,KOR,2000 Summer,Asia,Summer,Medium,Water Polo,2000,80,3,2,8.75,13,52,2,7,2
+Italy,High,Non-Host,Sydney,Australia,0,ITA,2000 Summer,Europe,Summer,Medium,Surfing,2000,96,2,1,4.167,7,59,1,4,2
+Netherlands,High,Non-Host,Sydney,Australia,0,NED,2000 Summer,Europe,Summer,Medium,Skateboarding,2000,78,2,5,11.538,21,18,2,9,2
+Hungary,Medium,Non-Host,Sydney,Australia,0,HUN,2000 Summer,Europe,Summer,High,Diving,2000,81,1,2,4.938,9,10,1,4,3
+Norway,High,Non-Host,Sydney,Australia,0,NOR,2000 Summer,Europe,Summer,High,Breakdancing,2000,45,6,0,17.778,10,5,2,8,3
+Canada,High,Non-Host,Sydney,Australia,0,CAN,2000 Summer,North America,Summer,Medium,Surfing,2000,48,3,1,12.5,10,38,2,6,2
+New Zealand,High,Non-Host,Sydney,Australia,0,NZL,2000 Summer,Oceania,Summer,Medium,Fencing,2000,1,0,0,100.0,2,5,1,1,2
+Cuba,Low,Non-Host,Sydney,Australia,0,CUB,2000 Summer,North America,Summer,High,Taekwondo,2000,13,0,0,15.385,4,11,2,2,3
+Kenya,Low,Non-Host,Sydney,Australia,0,KEN,2000 Summer,Africa,Summer,Medium,Surfing,2000,13,1,1,30.769,8,55,2,4,2
+Spain,High,Non-Host,Sydney,Australia,0,ESP,2000 Summer,Europe,Summer,Medium,Surfing,2000,11,0,0,9.091,2,47,1,1,2
+Sweden,High,Non-Host,Sydney,Australia,0,SWE,2000 Summer,Europe,Summer,Medium,Athletics,2000,17,0,2,11.765,6,10,0,2,2
+Denmark,High,Non-Host,Sydney,Australia,0,DEN,2000 Summer,Europe,Summer,Medium,Athletics,2000,16,2,0,12.5,2,6,0,2,2
+Switzerland,High,Non-Host,Sydney,Australia,0,SUI,2000 Summer,Europe,Summer,Medium,Sport Climbing,2000,15,0,3,20.0,9,9,0,3,2
+Austria,High,Non-Host,Sydney,Australia,0,AUT,2000 Summer,Europe,Summer,Medium,Wrestling,2000,1,0,1,200.0,5,9,1,2,2
+Belgium,High,Non-Host,Sydney,Australia,0,BEL,2000 Summer,Europe,Summer,Low,Canoe/Kayak,2000,41,1,1,4.878,4,11,0,2,1
+Czech Republic,Medium,Non-Host,Sydney,Australia,0,CZE,2000 Summer,Europe,Summer,Medium,Handball,2000,2,2,1,250.0,9,11,2,5,2
+Romania,Medium,Non-Host,Sydney,Australia,0,ROU,2000 Summer,Europe,Summer,Medium,Triathlon,2000,29,0,0,3.448,2,19,1,1,2
+Jamaica,Low,Non-Host,Sydney,Australia,0,JAM,2000 Summer,North America,Summer,Medium,Rowing,2000,20,1,0,5.0,1,3,0,1,2
+India,Medium,Non-Host,Sydney,Australia,0,IND,2000 Summer,Asia,Summer,Low,Breakdancing,2000,35,1,1,14.286,10,1400,3,5,1
+South Africa,Medium,Non-Host,Sydney,Australia,0,RSA,2000 Summer,Africa,Summer,Low,Skateboarding,2000,34,1,1,8.824,6,60,1,3,1
+Mexico,Medium,Non-Host,Sydney,Australia,0,MEX,2000 Summer,North America,Summer,Low,Triathlon,2000,1,1,0,300.0,5,130,2,3,1
+Turkey,Medium,Non-Host,Sydney,Australia,0,TUR,2000 Summer,Europe/Asia,Summer,Medium,Volleyball,2000,38,2,2,10.526,8,85,0,4,2
+Iran,Medium,Non-Host,Sydney,Australia,0,IRI,2000 Summer,Asia,Summer,Medium,Pentathlon,2000,11,1,2,36.364,9,86,1,4,2
+Kazakhstan,Medium,Non-Host,Sydney,Australia,0,KAZ,2000 Summer,Asia,Summer,Medium,Sport Climbing,2000,1,0,0,200.0,4,19,2,2,2
+Belarus,Medium,Non-Host,Sydney,Australia,0,BLR,2000 Summer,Europe,Summer,Medium,Water Polo,2000,28,1,0,3.571,1,10,0,1,2
+Croatia,Medium,Non-Host,Sydney,Australia,0,CRO,2000 Summer,Europe,Summer,Medium,Boxing,2000,1,0,1,100.0,3,4,0,1,2
+Greece,Medium,Non-Host,Sydney,Australia,0,GRE,2000 Summer,Europe,Summer,Low,Canoe/Kayak,2000,42,4,0,14.286,8,10,2,6,1
+North Korea,Low,Non-Host,Sydney,Australia,0,PRK,2000 Summer,Asia,Summer,High,Judo,2000,10,4,0,50.0,6,26,1,5,3
+Bahrain,High,Non-Host,Sydney,Australia,0,BRN,2000 Summer,Asia,Summer,Medium,Rowing,2000,59,0,1,1.695,3,2,0,1,2
+Morocco,Low,Non-Host,Sydney,Australia,0,MAR,2000 Summer,Africa,Summer,Low,Athletics,2000,30,0,2,6.667,6,37,0,2,1
+Uganda,Low,Non-Host,Sydney,Australia,0,UGA,2000 Summer,Africa,Summer,Low,Sailing,2000,1,2,0,300.0,4,47,1,3,1
+Georgia,Low,Non-Host,Sydney,Australia,0,GEO,2000 Summer,Europe/Asia,Summer,Medium,Handball,2000,13,1,0,15.385,3,4,1,2,2
+Azerbaijan,Medium,Non-Host,Sydney,Australia,0,AZE,2000 Summer,Europe/Asia,Summer,Medium,Badminton,2000,43,3,2,11.628,9,10,0,5,2
+Slovakia,Medium,Non-Host,Sydney,Australia,0,SVK,2000 Summer,Europe,Summer,Medium,Canoe/Kayak,2000,25,1,0,4.0,1,5,0,1,2
+Finland,High,Non-Host,Sydney,Australia,0,FIN,2000 Summer,Europe,Summer,Medium,Rowing,2000,9,2,1,44.444,7,6,1,4,2
+Slovenia,High,Non-Host,Sydney,Australia,0,SLO,2000 Summer,Europe,Summer,Medium,Pentathlon,2000,3,0,0,33.333,2,2,1,1,2
+Latvia,Medium,Non-Host,Sydney,Australia,0,LAT,2000 Summer,Europe,Summer,Medium,Badminton,2000,34,0,1,2.941,3,2,0,1,2
+Estonia,High,Non-Host,Sydney,Australia,0,EST,2000 Summer,Europe,Summer,Medium,Football/Soccer,2000,30,1,0,6.667,3,1,1,2,2
+Lithuania,Medium,Non-Host,Sydney,Australia,0,LTU,2000 Summer,Europe,Summer,Medium,Sailing,2000,24,2,1,12.5,5,3,0,3,2
+Uzbekistan,Low,Non-Host,Sydney,Australia,0,UZB,2000 Summer,Asia,Summer,Medium,Cycling,2000,53,1,1,5.66,6,35,1,3,2
+Thailand,Medium,Non-Host,Sydney,Australia,0,THA,2000 Summer,Asia,Summer,Low,Skateboarding,2000,37,4,1,13.514,7,70,0,5,1
+Dominican Republic,Low,Non-Host,Sydney,Australia,0,DOM,2000 Summer,North America,Summer,Low,Badminton,2000,17,1,0,11.765,3,11,1,2,1
+Colombia,Medium,Non-Host,Sydney,Australia,0,COL,2000 Summer,South America,Summer,Low,Diving,2000,1,1,1,400.0,8,51,2,4,1
+Armenia,Low,Non-Host,Sydney,Australia,0,ARM,2000 Summer,Europe/Asia,Summer,Medium,Football/Soccer,2000,9,1,3,44.444,10,3,0,4,2
+Mongolia,Low,Non-Host,Sydney,Australia,0,MGL,2000 Summer,Asia,Summer,Medium,Breakdancing,2000,10,2,0,30.0,4,3,1,3,2
+Indonesia,Medium,Non-Host,Sydney,Australia,0,INA,2000 Summer,Asia,Summer,Low,Hockey (Field),2000,14,2,0,14.286,2,275,0,2,1
+Philippines,Low,Non-Host,Sydney,Australia,0,PHI,2000 Summer,Asia,Summer,Low,Basketball,2000,1,2,1,300.0,5,115,0,3,1
+United States,High,Host Nation,Salt Lake City,United States,1,USA,2002 Winter,North America,Winter,High,Skeleton,2002,379,22,15,15.303,109,335,21,58,3
+China,High,Non-Host,Salt Lake City,United States,0,CHN,2002 Winter,Asia,Winter,High,Cross-Country Skiing,2002,255,16,15,17.647,89,1411,14,45,3
+Russia,Medium,Non-Host,Salt Lake City,United States,0,RUS,2002 Winter,Europe,Winter,High,Biathlon Mixed Relay,2002,175,9,3,11.429,34,144,8,20,3
+Great Britain,High,Non-Host,Salt Lake City,United States,0,GBR,2002 Winter,Europe,Winter,High,Nordic Combined,2002,130,2,4,10.769,30,67,8,14,3
+Germany,High,Non-Host,Salt Lake City,United States,0,GER,2002 Winter,Europe,Winter,High,Skeleton,2002,150,9,11,16.667,52,84,5,25,3
+Australia,High,Non-Host,Salt Lake City,United States,0,AUS,2002 Winter,Oceania,Winter,High,Snowboard,2002,115,3,5,11.304,28,26,5,13,3
+France,High,Non-Host,Salt Lake City,United States,0,FRA,2002 Winter,Europe,Winter,High,Bobsled,2002,116,4,9,14.655,39,68,4,17,3
+Japan,High,Non-Host,Salt Lake City,United States,0,JPN,2002 Winter,Asia,Winter,High,Speed Skating,2002,129,6,4,14.729,36,125,9,19,3
+South Korea,High,Non-Host,Salt Lake City,United States,0,KOR,2002 Winter,Asia,Winter,Medium,Ski Jumping,2002,55,4,4,21.818,24,52,4,12,2
+Italy,High,Non-Host,Salt Lake City,United States,0,ITA,2002 Winter,Europe,Winter,Medium,Short Track,2002,93,7,2,9.677,13,59,0,9,2
+Netherlands,High,Non-Host,Salt Lake City,United States,0,NED,2002 Winter,Europe,Winter,Medium,Bobsled,2002,52,0,5,19.231,25,18,5,10,2
+Hungary,Medium,Non-Host,Salt Lake City,United States,0,HUN,2002 Winter,Europe,Winter,High,Luge,2002,107,3,2,6.542,13,10,2,7,3
+Norway,High,Non-Host,Salt Lake City,United States,0,NOR,2002 Winter,Europe,Winter,High,Nordic Combined,2002,80,2,2,5.0,8,5,0,4,3
+Canada,High,Non-Host,Salt Lake City,United States,0,CAN,2002 Winter,North America,Winter,Medium,Curling,2002,86,3,4,11.628,21,38,3,10,2
+Spain,High,Non-Host,Salt Lake City,United States,0,ESP,2002 Winter,Europe,Winter,Medium,Short Track,2002,9,1,0,22.222,3,47,1,2,2
+Ukraine,Medium,Non-Host,Salt Lake City,United States,0,UKR,2002 Winter,Europe,Winter,Medium,Ski Jumping,2002,30,0,0,3.333,2,44,1,1,2
+Sweden,High,Non-Host,Salt Lake City,United States,0,SWE,2002 Winter,Europe,Winter,Medium,Luge,2002,32,2,1,12.5,7,10,1,4,2
+Denmark,High,Non-Host,Salt Lake City,United States,0,DEN,2002 Winter,Europe,Winter,Medium,Snowboard,2002,19,1,0,5.263,1,6,0,1,2
+Switzerland,High,Non-Host,Salt Lake City,United States,0,SUI,2002 Winter,Europe,Winter,Medium,Speed Skating,2002,43,0,1,2.326,3,9,0,1,2
+Austria,High,Non-Host,Salt Lake City,United States,0,AUT,2002 Winter,Europe,Winter,Medium,Luge,2002,37,1,0,2.703,1,9,0,1,2
+Belgium,High,Non-Host,Salt Lake City,United States,0,BEL,2002 Winter,Europe,Winter,Low,Biathlon,2002,39,0,1,2.564,3,11,0,1,1
+Poland,Medium,Non-Host,Salt Lake City,United States,0,POL,2002 Winter,Europe,Winter,Medium,Snowboard,2002,5,1,0,20.0,1,38,0,1,2
+Czech Republic,Medium,Non-Host,Salt Lake City,United States,0,CZE,2002 Winter,Europe,Winter,Medium,Snowboard,2002,25,1,1,16.0,8,11,2,4,2
+South Africa,Medium,Non-Host,Salt Lake City,United States,0,RSA,2002 Winter,Africa,Winter,Low,Nordic Combined,2002,16,0,2,12.5,6,60,0,2,1
+Argentina,Medium,Non-Host,Salt Lake City,United States,0,ARG,2002 Winter,South America,Winter,Low,Biathlon,2002,18,2,1,16.667,5,46,0,3,1
+Mexico,Medium,Non-Host,Salt Lake City,United States,0,MEX,2002 Winter,North America,Winter,Low,Short Track,2002,17,1,0,11.765,3,130,1,2,1
+Turkey,Medium,Non-Host,Salt Lake City,United States,0,TUR,2002 Winter,Europe/Asia,Winter,Medium,Alpine Skiing,2002,10,1,0,10.0,1,85,0,1,2
+Iran,Medium,Non-Host,Salt Lake City,United States,0,IRI,2002 Winter,Asia,Winter,Medium,Alpine Skiing,2002,21,3,0,19.048,5,86,1,4,2
+Kazakhstan,Medium,Non-Host,Salt Lake City,United States,0,KAZ,2002 Winter,Asia,Winter,Medium,Luge,2002,8,0,1,37.5,7,19,2,3,2
+Belarus,Medium,Non-Host,Salt Lake City,United States,0,BLR,2002 Winter,Europe,Winter,Medium,Speed Skating,2002,1,0,1,100.0,3,10,0,1,2
+Croatia,Medium,Non-Host,Salt Lake City,United States,0,CRO,2002 Winter,Europe,Winter,Medium,Ski Jumping,2002,34,1,2,8.824,7,4,0,3,2
+Greece,Medium,Non-Host,Salt Lake City,United States,0,GRE,2002 Winter,Europe,Winter,Low,Alpine Skiing,2002,28,1,2,14.286,9,10,1,4,1
+North Korea,Low,Non-Host,Salt Lake City,United States,0,PRK,2002 Winter,Asia,Winter,High,Figure Skating,2002,25,1,0,8.0,3,26,1,2,3
+Bahrain,High,Non-Host,Salt Lake City,United States,0,BRN,2002 Winter,Asia,Winter,Medium,Nordic Combined,2002,31,1,2,16.129,11,2,2,5,2
+Morocco,Low,Non-Host,Salt Lake City,United States,0,MAR,2002 Winter,Africa,Winter,Low,Snowboard,2002,30,0,0,6.667,4,37,2,2,1
+Uganda,Low,Non-Host,Salt Lake City,United States,0,UGA,2002 Winter,Africa,Winter,Low,Biathlon Mixed Relay,2002,23,2,1,13.043,5,47,0,3,1
+Georgia,Low,Non-Host,Salt Lake City,United States,0,GEO,2002 Winter,Europe/Asia,Winter,Medium,Snowboard,2002,44,1,0,2.273,1,4,0,1,2
+Azerbaijan,Medium,Non-Host,Salt Lake City,United States,0,AZE,2002 Winter,Europe/Asia,Winter,Medium,Freestyle Skiing,2002,44,3,2,11.364,9,10,0,5,2
+Slovakia,Medium,Non-Host,Salt Lake City,United States,0,SVK,2002 Winter,Europe,Winter,Medium,Alpine Skiing,2002,34,2,0,8.824,4,5,1,3,2
+Finland,High,Non-Host,Salt Lake City,United States,0,FIN,2002 Winter,Europe,Winter,Medium,Short Track,2002,39,1,1,7.692,6,6,1,3,2
+Slovenia,High,Non-Host,Salt Lake City,United States,0,SLO,2002 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,2002,27,0,0,3.704,2,2,1,1,2
+Latvia,Medium,Non-Host,Salt Lake City,United States,0,LAT,2002 Winter,Europe,Winter,Medium,Skeleton,2002,16,0,1,6.25,3,2,0,1,2
+Estonia,High,Non-Host,Salt Lake City,United States,0,EST,2002 Winter,Europe,Winter,Medium,Speed Skating,2002,29,1,2,17.241,11,1,2,5,2
+Lithuania,Medium,Non-Host,Salt Lake City,United States,0,LTU,2002 Winter,Europe,Winter,Medium,Short Track,2002,14,0,2,28.571,10,3,2,4,2
+Uzbekistan,Low,Non-Host,Salt Lake City,United States,0,UZB,2002 Winter,Asia,Winter,Medium,Ice Hockey,2002,16,0,1,12.5,5,35,1,2,2
+Armenia,Low,Non-Host,Salt Lake City,United States,0,ARM,2002 Winter,Europe/Asia,Winter,Medium,Speed Skating,2002,13,2,0,15.385,2,3,0,2,2
+Mongolia,Low,Non-Host,Salt Lake City,United States,0,MGL,2002 Winter,Asia,Winter,Medium,Figure Skating,2002,12,0,1,8.333,3,3,0,1,2
+United States,High,Non-Host,Athens,Greece,0,USA,2004 Summer,North America,Summer,High,Boxing,2004,299,12,16,13.043,82,335,11,39,3
+China,High,Non-Host,Athens,Greece,0,CHN,2004 Summer,Asia,Summer,High,Rugby Sevens,2004,252,12,12,13.095,66,1411,9,33,3
+Russia,Medium,Non-Host,Athens,Greece,0,RUS,2004 Summer,Europe,Summer,High,Rugby Sevens,2004,197,15,14,21.827,85,144,14,43,3
+Great Britain,High,Non-Host,Athens,Greece,0,GBR,2004 Summer,Europe,Summer,High,Gymnastics,2004,115,11,9,25.217,56,67,9,29,3
+Germany,High,Non-Host,Athens,Greece,0,GER,2004 Summer,Europe,Summer,High,Equestrian,2004,152,5,9,12.5,42,84,5,19,3
+Australia,High,Non-Host,Athens,Greece,0,AUS,2004 Summer,Oceania,Summer,High,Water Polo,2004,135,2,6,14.074,42,26,11,19,3
+France,High,Non-Host,Athens,Greece,0,FRA,2004 Summer,Europe,Summer,High,Equestrian,2004,92,5,4,13.043,23,68,3,12,3
+Japan,High,Non-Host,Athens,Greece,0,JPN,2004 Summer,Asia,Summer,High,Water Polo,2004,128,7,4,10.938,25,125,3,14,3
+South Korea,High,Non-Host,Athens,Greece,0,KOR,2004 Summer,Asia,Summer,Medium,Skateboarding,2004,82,2,3,12.195,21,52,5,10,2
+Italy,High,Non-Host,Athens,Greece,0,ITA,2004 Summer,Europe,Summer,Medium,Taekwondo,2004,101,2,5,10.891,25,59,4,11,2
+Netherlands,High,Non-Host,Athens,Greece,0,NED,2004 Summer,Europe,Summer,Medium,Cycling,2004,86,3,0,4.651,5,18,1,4,2
+Hungary,Medium,Non-Host,Athens,Greece,0,HUN,2004 Summer,Europe,Summer,High,Hockey (Field),2004,107,2,0,7.477,14,10,6,8,3
+Norway,High,Non-Host,Athens,Greece,0,NOR,2004 Summer,Europe,Summer,High,Skateboarding,2004,36,1,4,16.667,15,5,1,6,3
+Canada,High,Non-Host,Athens,Greece,0,CAN,2004 Summer,North America,Summer,Medium,Handball,2004,28,5,0,32.143,13,38,4,9,2
+New Zealand,High,Non-Host,Athens,Greece,0,NZL,2004 Summer,Oceania,Summer,Medium,Taekwondo,2004,4,0,1,50.0,5,5,1,2,2
+Cuba,Low,Non-Host,Athens,Greece,0,CUB,2004 Summer,North America,Summer,High,Swimming,2004,21,1,2,23.81,11,11,2,5,3
+Kenya,Low,Non-Host,Athens,Greece,0,KEN,2004 Summer,Africa,Summer,Medium,Shooting,2004,41,0,1,2.439,3,55,0,1,2
+Ethiopia,Low,Non-Host,Athens,Greece,0,ETH,2004 Summer,Africa,Summer,Low,Athletics,2004,2,2,0,200.0,6,120,2,4,1
+Brazil,Medium,Non-Host,Athens,Greece,0,BRA,2004 Summer,South America,Summer,Medium,Canoe/Kayak,2004,1,0,1,300.0,7,215,2,3,2
+Ukraine,Medium,Non-Host,Athens,Greece,0,UKR,2004 Summer,Europe,Summer,Medium,Handball,2004,24,0,1,8.333,5,44,1,2,2
+Sweden,High,Non-Host,Athens,Greece,0,SWE,2004 Summer,Europe,Summer,Medium,Taekwondo,2004,37,0,1,2.703,3,10,0,1,2
+Denmark,High,Non-Host,Athens,Greece,0,DEN,2004 Summer,Europe,Summer,Medium,Golf,2004,34,0,0,5.882,4,6,2,2,2
+Switzerland,High,Non-Host,Athens,Greece,0,SUI,2004 Summer,Europe,Summer,Medium,Canoe/Kayak,2004,44,0,1,2.273,3,9,0,1,2
+Austria,High,Non-Host,Athens,Greece,0,AUT,2004 Summer,Europe,Summer,Medium,Handball,2004,11,1,1,18.182,4,9,0,2,2
+Belgium,High,Non-Host,Athens,Greece,0,BEL,2004 Summer,Europe,Summer,Low,Football/Soccer,2004,21,0,1,4.762,3,11,0,1,1
+Poland,Medium,Non-Host,Athens,Greece,0,POL,2004 Summer,Europe,Summer,Medium,Swimming,2004,11,2,0,27.273,4,38,1,3,2
+Czech Republic,Medium,Non-Host,Athens,Greece,0,CZE,2004 Summer,Europe,Summer,Medium,Badminton,2004,3,3,1,166.667,8,11,1,5,2
+Romania,Medium,Non-Host,Athens,Greece,0,ROU,2004 Summer,Europe,Summer,Medium,Rugby Sevens,2004,36,1,1,5.556,4,19,0,2,2
+Jamaica,Low,Non-Host,Athens,Greece,0,JAM,2004 Summer,North America,Summer,Medium,Triathlon,2004,18,0,1,11.111,5,3,1,2,2
+India,Medium,Non-Host,Athens,Greece,0,IND,2004 Summer,Asia,Summer,Low,Pentathlon,2004,22,0,2,18.182,10,1400,2,4,1
+South Africa,Medium,Non-Host,Athens,Greece,0,RSA,2004 Summer,Africa,Summer,Low,Athletics,2004,19,0,1,5.263,3,60,0,1,1
+Argentina,Medium,Non-Host,Athens,Greece,0,ARG,2004 Summer,South America,Summer,Low,Gymnastics,2004,43,0,2,6.977,8,46,1,3,1
+Mexico,Medium,Non-Host,Athens,Greece,0,MEX,2004 Summer,North America,Summer,Low,Sailing,2004,32,0,0,3.125,2,130,1,1,1
+Iran,Medium,Non-Host,Athens,Greece,0,IRI,2004 Summer,Asia,Summer,Medium,Rowing,2004,31,1,1,9.677,6,86,1,3,2
+Kazakhstan,Medium,Non-Host,Athens,Greece,0,KAZ,2004 Summer,Asia,Summer,Medium,Breakdancing,2004,24,0,1,4.167,3,19,0,1,2
+Croatia,Medium,Non-Host,Athens,Greece,0,CRO,2004 Summer,Europe,Summer,Medium,Equestrian,2004,18,0,1,11.111,5,4,1,2,2
+Greece,Medium,Host Nation,Athens,Greece,1,GRE,2004 Summer,Europe,Summer,Low,Football/Soccer,2004,3,1,0,66.667,3,10,1,2,1
+North Korea,Low,Non-Host,Athens,Greece,0,PRK,2004 Summer,Asia,Summer,High,Skateboarding,2004,3,1,0,33.333,1,26,0,1,3
+Bahrain,High,Non-Host,Athens,Greece,0,BRN,2004 Summer,Asia,Summer,Medium,Golf,2004,17,2,1,17.647,5,2,0,3,2
+Morocco,Low,Non-Host,Athens,Greece,0,MAR,2004 Summer,Africa,Summer,Low,Water Polo,2004,9,1,3,55.556,12,37,1,5,1
+Uganda,Low,Non-Host,Athens,Greece,0,UGA,2004 Summer,Africa,Summer,Low,Rugby Sevens,2004,25,0,0,4.0,2,47,1,1,1
+Azerbaijan,Medium,Non-Host,Athens,Greece,0,AZE,2004 Summer,Europe/Asia,Summer,Medium,Skateboarding,2004,44,0,2,9.091,10,10,2,4,2
+Slovakia,Medium,Non-Host,Athens,Greece,0,SVK,2004 Summer,Europe,Summer,Medium,Table Tennis,2004,1,0,1,100.0,3,5,0,1,2
+Slovenia,High,Non-Host,Athens,Greece,0,SLO,2004 Summer,Europe,Summer,Medium,Tennis,2004,12,0,1,8.333,3,2,0,1,2
+Latvia,Medium,Non-Host,Athens,Greece,0,LAT,2004 Summer,Europe,Summer,Medium,Football/Soccer,2004,21,3,1,19.048,6,2,0,4,2
+Estonia,High,Non-Host,Athens,Greece,0,EST,2004 Summer,Europe,Summer,Medium,Badminton,2004,9,0,1,11.111,3,1,0,1,2
+Lithuania,Medium,Non-Host,Athens,Greece,0,LTU,2004 Summer,Europe,Summer,Medium,Wrestling,2004,36,1,2,13.889,11,3,2,5,2
+Uzbekistan,Low,Non-Host,Athens,Greece,0,UZB,2004 Summer,Asia,Summer,Medium,Triathlon,2004,51,0,3,5.882,9,35,0,3,2
+Thailand,Medium,Non-Host,Athens,Greece,0,THA,2004 Summer,Asia,Summer,Low,Surfing,2004,33,0,0,3.03,2,70,1,1,1
+Dominican Republic,Low,Non-Host,Athens,Greece,0,DOM,2004 Summer,North America,Summer,Low,Gymnastics,2004,32,0,0,3.125,2,11,1,1,1
+Colombia,Medium,Non-Host,Athens,Greece,0,COL,2004 Summer,South America,Summer,Low,Shooting,2004,20,3,0,20.0,5,51,1,4,1
+Mongolia,Low,Non-Host,Athens,Greece,0,MGL,2004 Summer,Asia,Summer,Medium,Skateboarding,2004,33,1,1,6.061,4,3,0,2,2
+Indonesia,Medium,Non-Host,Athens,Greece,0,INA,2004 Summer,Asia,Summer,Low,Diving,2004,37,0,1,2.703,3,275,0,1,1
+Philippines,Low,Non-Host,Athens,Greece,0,PHI,2004 Summer,Asia,Summer,Low,Rugby Sevens,2004,30,0,0,3.333,2,115,1,1,1
+United States,High,Non-Host,Turin,Italy,0,USA,2006 Winter,North America,Winter,High,Luge,2006,291,12,13,12.371,73,335,11,36,3
+China,High,Non-Host,Turin,Italy,0,CHN,2006 Winter,Asia,Winter,High,Ski Jumping,2006,232,8,14,14.224,72,1411,11,33,3
+Russia,Medium,Non-Host,Turin,Italy,0,RUS,2006 Winter,Europe,Winter,High,Skeleton,2006,219,4,5,8.676,39,144,10,19,3
+Great Britain,High,Non-Host,Turin,Italy,0,GBR,2006 Winter,Europe,Winter,High,Curling,2006,137,10,5,13.869,33,67,4,19,3
+Germany,High,Non-Host,Turin,Italy,0,GER,2006 Winter,Europe,Winter,High,Figure Skating,2006,155,6,6,12.258,38,84,7,19,3
+Australia,High,Non-Host,Turin,Italy,0,AUS,2006 Winter,Oceania,Winter,High,Speed Skating,2006,133,3,7,12.03,36,26,6,16,3
+France,High,Non-Host,Turin,Italy,0,FRA,2006 Winter,Europe,Winter,High,Speed Skating,2006,128,9,3,16.406,36,68,9,21,3
+Japan,High,Non-Host,Turin,Italy,0,JPN,2006 Winter,Asia,Winter,High,Ski Jumping,2006,104,1,4,10.577,25,125,6,11,3
+South Korea,High,Non-Host,Turin,Italy,0,KOR,2006 Winter,Asia,Winter,Medium,Cross-Country Skiing,2006,74,9,2,17.568,19,52,2,13,2
+Italy,High,Host Nation,Turin,Italy,1,ITA,2006 Winter,Europe,Winter,Medium,Skeleton,2006,136,5,7,11.765,34,59,4,16,2
+Netherlands,High,Non-Host,Turin,Italy,0,NED,2006 Winter,Europe,Winter,Medium,Ski Jumping,2006,71,5,4,14.085,19,18,1,10,2
+Hungary,Medium,Non-Host,Turin,Italy,0,HUN,2006 Winter,Europe,Winter,High,Figure Skating,2006,88,5,1,11.364,16,10,4,10,3
+Norway,High,Non-Host,Turin,Italy,0,NOR,2006 Winter,Europe,Winter,High,Snowboard,2006,61,4,4,14.754,18,5,1,9,3
+Canada,High,Non-Host,Turin,Italy,0,CAN,2006 Winter,North America,Winter,Medium,Freestyle Skiing,2006,62,4,4,16.129,20,38,2,10,2
+New Zealand,High,Non-Host,Turin,Italy,0,NZL,2006 Winter,Oceania,Winter,Medium,Biathlon Mixed Relay,2006,22,1,1,9.091,4,5,0,2,2
+Spain,High,Non-Host,Turin,Italy,0,ESP,2006 Winter,Europe,Winter,Medium,Nordic Combined,2006,50,0,0,2.0,2,47,1,1,2
+Ukraine,Medium,Non-Host,Turin,Italy,0,UKR,2006 Winter,Europe,Winter,Medium,Short Track,2006,20,1,0,5.0,1,44,0,1,2
+Denmark,High,Non-Host,Turin,Italy,0,DEN,2006 Winter,Europe,Winter,Medium,Snowboard,2006,7,0,1,14.286,3,6,0,1,2
+Switzerland,High,Non-Host,Turin,Italy,0,SUI,2006 Winter,Europe,Winter,Medium,Short Track,2006,3,1,1,100.0,6,9,1,3,2
+Austria,High,Non-Host,Turin,Italy,0,AUT,2006 Winter,Europe,Winter,Medium,Snowboard,2006,45,3,1,11.111,8,9,1,5,2
+Belgium,High,Non-Host,Turin,Italy,0,BEL,2006 Winter,Europe,Winter,Low,Freestyle Skiing,2006,34,1,0,8.824,5,11,2,3,1
+Poland,Medium,Non-Host,Turin,Italy,0,POL,2006 Winter,Europe,Winter,Medium,Bobsled,2006,29,1,0,3.448,1,38,0,1,2
+Romania,Medium,Non-Host,Turin,Italy,0,ROU,2006 Winter,Europe,Winter,Medium,Skeleton,2006,30,1,0,3.333,1,19,0,1,2
+South Africa,Medium,Non-Host,Turin,Italy,0,RSA,2006 Winter,Africa,Winter,Low,Bobsled,2006,31,1,0,6.452,3,60,1,2,1
+Argentina,Medium,Non-Host,Turin,Italy,0,ARG,2006 Winter,South America,Winter,Low,Freestyle Skiing,2006,18,3,0,16.667,3,46,0,3,1
+Mexico,Medium,Non-Host,Turin,Italy,0,MEX,2006 Winter,North America,Winter,Low,Biathlon Mixed Relay,2006,31,1,0,12.903,7,130,3,4,1
+Turkey,Medium,Non-Host,Turin,Italy,0,TUR,2006 Winter,Europe/Asia,Winter,Medium,Bobsled,2006,46,0,1,6.522,7,85,2,3,2
+Iran,Medium,Non-Host,Turin,Italy,0,IRI,2006 Winter,Asia,Winter,Medium,Biathlon Mixed Relay,2006,9,1,1,22.222,4,86,0,2,2
+Kazakhstan,Medium,Non-Host,Turin,Italy,0,KAZ,2006 Winter,Asia,Winter,Medium,Bobsled,2006,8,1,0,12.5,1,19,0,1,2
+Belarus,Medium,Non-Host,Turin,Italy,0,BLR,2006 Winter,Europe,Winter,Medium,Biathlon,2006,13,1,1,15.385,4,10,0,2,2
+Croatia,Medium,Non-Host,Turin,Italy,0,CRO,2006 Winter,Europe,Winter,Medium,Freestyle Skiing,2006,19,2,1,21.053,7,4,1,4,2
+Greece,Medium,Non-Host,Turin,Italy,0,GRE,2006 Winter,Europe,Winter,Low,Skeleton,2006,3,0,2,66.667,6,10,0,2,1
+North Korea,Low,Non-Host,Turin,Italy,0,PRK,2006 Winter,Asia,Winter,High,Biathlon,2006,1,1,0,100.0,1,26,0,1,3
+Bahrain,High,Non-Host,Turin,Italy,0,BRN,2006 Winter,Asia,Winter,Medium,Ice Hockey,2006,27,2,1,14.815,7,2,1,4,2
+Uganda,Low,Non-Host,Turin,Italy,0,UGA,2006 Winter,Africa,Winter,Low,Cross-Country Skiing,2006,27,1,1,11.111,6,47,1,3,1
+Georgia,Low,Non-Host,Turin,Italy,0,GEO,2006 Winter,Europe/Asia,Winter,Medium,Skeleton,2006,23,1,1,8.696,4,4,0,2,2
+Azerbaijan,Medium,Non-Host,Turin,Italy,0,AZE,2006 Winter,Europe/Asia,Winter,Medium,Cross-Country Skiing,2006,25,2,1,12.0,5,10,0,3,2
+Slovakia,Medium,Non-Host,Turin,Italy,0,SVK,2006 Winter,Europe,Winter,Medium,Cross-Country Skiing,2006,7,1,1,28.571,4,5,0,2,2
+Finland,High,Non-Host,Turin,Italy,0,FIN,2006 Winter,Europe,Winter,Medium,Freestyle Skiing,2006,7,1,0,14.286,1,6,0,1,2
+Slovenia,High,Non-Host,Turin,Italy,0,SLO,2006 Winter,Europe,Winter,Medium,Nordic Combined,2006,30,0,0,3.333,2,2,1,1,2
+Latvia,Medium,Non-Host,Turin,Italy,0,LAT,2006 Winter,Europe,Winter,Medium,Curling,2006,1,1,0,200.0,3,2,1,2,2
+Estonia,High,Non-Host,Turin,Italy,0,EST,2006 Winter,Europe,Winter,Medium,Short Track,2006,10,1,2,40.0,9,1,1,4,2
+Lithuania,Medium,Non-Host,Turin,Italy,0,LTU,2006 Winter,Europe,Winter,Medium,Luge,2006,32,1,2,9.375,7,3,0,3,2
+Uzbekistan,Low,Non-Host,Turin,Italy,0,UZB,2006 Winter,Asia,Winter,Medium,Luge,2006,19,1,0,5.263,1,35,0,1,2
+Armenia,Low,Non-Host,Turin,Italy,0,ARM,2006 Winter,Europe/Asia,Winter,Medium,Biathlon,2006,26,0,1,3.846,3,3,0,1,2
+Mongolia,Low,Non-Host,Turin,Italy,0,MGL,2006 Winter,Asia,Winter,Medium,Curling,2006,28,1,1,7.143,4,3,0,2,2
+United States,High,Non-Host,Beijing,China,0,USA,2008 Summer,North America,Summer,High,Badminton,2008,296,12,19,13.851,89,335,10,41,3
+China,High,Host Nation,Beijing,China,1,CHN,2008 Summer,Asia,Summer,High,Surfing,2008,386,24,12,16.321,114,1411,27,63,3
+Russia,Medium,Non-Host,Beijing,China,0,RUS,2008 Summer,Europe,Summer,High,Athletics,2008,211,7,8,10.427,45,144,7,22,3
+Great Britain,High,Non-Host,Beijing,China,0,GBR,2008 Summer,Europe,Summer,High,Hockey (Field),2008,155,8,6,14.194,42,67,8,22,3
+Germany,High,Non-Host,Beijing,China,0,GER,2008 Summer,Europe,Summer,High,Wrestling,2008,106,10,4,21.698,40,84,9,23,3
+Australia,High,Non-Host,Beijing,China,0,AUS,2008 Summer,Oceania,Summer,High,Diving,2008,108,8,5,12.963,25,26,1,14,3
+France,High,Non-Host,Beijing,China,0,FRA,2008 Summer,Europe,Summer,High,Pentathlon,2008,107,3,3,10.28,22,68,5,11,3
+Japan,High,Non-Host,Beijing,China,0,JPN,2008 Summer,Asia,Summer,High,Volleyball,2008,126,3,8,10.317,31,125,2,13,3
+South Korea,High,Non-Host,Beijing,China,0,KOR,2008 Summer,Asia,Summer,Medium,Triathlon,2008,87,3,1,8.046,12,52,3,7,2
+Italy,High,Non-Host,Beijing,China,0,ITA,2008 Summer,Europe,Summer,Medium,Football/Soccer,2008,82,4,1,12.195,17,59,5,10,2
+Netherlands,High,Non-Host,Beijing,China,0,NED,2008 Summer,Europe,Summer,Medium,Volleyball,2008,61,4,4,13.115,16,18,0,8,2
+Hungary,Medium,Non-Host,Beijing,China,0,HUN,2008 Summer,Europe,Summer,High,Canoe/Kayak,2008,65,2,3,7.692,11,10,0,5,3
+Norway,High,Non-Host,Beijing,China,0,NOR,2008 Summer,Europe,Summer,High,Triathlon,2008,40,1,1,7.5,6,5,1,3,3
+Canada,High,Non-Host,Beijing,China,0,CAN,2008 Summer,North America,Summer,Medium,Swimming,2008,31,1,3,19.355,14,38,2,6,2
+New Zealand,High,Non-Host,Beijing,China,0,NZL,2008 Summer,Oceania,Summer,Medium,Sailing,2008,28,3,0,10.714,3,5,0,3,2
+Cuba,Low,Non-Host,Beijing,China,0,CUB,2008 Summer,North America,Summer,High,Handball,2008,43,0,1,6.977,7,11,2,3,3
+Kenya,Low,Non-Host,Beijing,China,0,KEN,2008 Summer,Africa,Summer,Medium,Golf,2008,21,0,1,4.762,3,55,0,1,2
+Ethiopia,Low,Non-Host,Beijing,China,0,ETH,2008 Summer,Africa,Summer,Low,Weightlifting,2008,19,2,0,15.789,4,120,1,3,1
+Brazil,Medium,Non-Host,Beijing,China,0,BRA,2008 Summer,South America,Summer,Medium,Weightlifting,2008,16,0,1,6.25,3,215,0,1,2
+Ukraine,Medium,Non-Host,Beijing,China,0,UKR,2008 Summer,Europe,Summer,Medium,Boxing,2008,15,2,1,26.667,7,44,1,4,2
+Sweden,High,Non-Host,Beijing,China,0,SWE,2008 Summer,Europe,Summer,Medium,Judo,2008,30,1,2,10.0,7,10,0,3,2
+Switzerland,High,Non-Host,Beijing,China,0,SUI,2008 Summer,Europe,Summer,Medium,Canoe/Kayak,2008,6,0,0,33.333,4,9,2,2,2
+Austria,High,Non-Host,Beijing,China,0,AUT,2008 Summer,Europe,Summer,Medium,Wrestling,2008,1,1,0,200.0,3,9,1,2,2
+Belgium,High,Non-Host,Beijing,China,0,BEL,2008 Summer,Europe,Summer,Low,Weightlifting,2008,3,2,0,100.0,4,11,1,3,1
+Poland,Medium,Non-Host,Beijing,China,0,POL,2008 Summer,Europe,Summer,Medium,Canoe/Kayak,2008,22,0,1,4.545,3,38,0,1,2
+Czech Republic,Medium,Non-Host,Beijing,China,0,CZE,2008 Summer,Europe,Summer,Medium,Rowing,2008,38,1,2,13.158,11,11,2,5,2
+Romania,Medium,Non-Host,Beijing,China,0,ROU,2008 Summer,Europe,Summer,Medium,Boxing,2008,1,1,0,100.0,1,19,0,1,2
+Jamaica,Low,Non-Host,Beijing,China,0,JAM,2008 Summer,North America,Summer,Medium,Equestrian,2008,10,0,0,10.0,2,3,1,1,2
+India,Medium,Non-Host,Beijing,China,0,IND,2008 Summer,Asia,Summer,Low,Boxing,2008,2,2,0,150.0,4,1400,1,3,1
+South Africa,Medium,Non-Host,Beijing,China,0,RSA,2008 Summer,Africa,Summer,Low,Wrestling,2008,34,1,2,11.765,9,60,1,4,1
+Argentina,Medium,Non-Host,Beijing,China,0,ARG,2008 Summer,South America,Summer,Low,Triathlon,2008,5,2,0,40.0,2,46,0,2,1
+Mexico,Medium,Non-Host,Beijing,China,0,MEX,2008 Summer,North America,Summer,Low,Boxing,2008,41,0,0,7.317,6,130,3,3,1
+Kazakhstan,Medium,Non-Host,Beijing,China,0,KAZ,2008 Summer,Asia,Summer,Medium,Sport Climbing,2008,10,0,1,20.0,5,19,1,2,2
+Belarus,Medium,Non-Host,Beijing,China,0,BLR,2008 Summer,Europe,Summer,Medium,Taekwondo,2008,16,1,2,31.25,11,10,2,5,2
+Croatia,Medium,Non-Host,Beijing,China,0,CRO,2008 Summer,Europe,Summer,Medium,Fencing,2008,6,0,0,33.333,4,4,2,2,2
+Greece,Medium,Non-Host,Beijing,China,0,GRE,2008 Summer,Europe,Summer,Low,Taekwondo,2008,14,0,0,7.143,2,10,1,1,1
+North Korea,Low,Non-Host,Beijing,China,0,PRK,2008 Summer,Asia,Summer,High,Surfing,2008,30,1,0,6.667,3,26,1,2,3
+Bahrain,High,Non-Host,Beijing,China,0,BRN,2008 Summer,Asia,Summer,Medium,Wrestling,2008,8,0,1,25.0,5,2,1,2,2
+Morocco,Low,Non-Host,Beijing,China,0,MAR,2008 Summer,Africa,Summer,Low,Gymnastics,2008,26,1,0,3.846,1,37,0,1,1
+Uganda,Low,Non-Host,Beijing,China,0,UGA,2008 Summer,Africa,Summer,Low,Water Polo,2008,8,2,3,75.0,13,47,1,6,1
+Georgia,Low,Non-Host,Beijing,China,0,GEO,2008 Summer,Europe/Asia,Summer,Medium,Water Polo,2008,2,1,1,100.0,4,4,0,2,2
+Azerbaijan,Medium,Non-Host,Beijing,China,0,AZE,2008 Summer,Europe/Asia,Summer,Medium,Weightlifting,2008,1,0,1,400.0,9,10,3,4,2
+Slovakia,Medium,Non-Host,Beijing,China,0,SVK,2008 Summer,Europe,Summer,Medium,Volleyball,2008,21,3,1,19.048,6,5,0,4,2
+Finland,High,Non-Host,Beijing,China,0,FIN,2008 Summer,Europe,Summer,Medium,Wrestling,2008,1,1,1,200.0,4,6,0,2,2
+Slovenia,High,Non-Host,Beijing,China,0,SLO,2008 Summer,Europe,Summer,Medium,Sailing,2008,7,2,0,28.571,2,2,0,2,2
+Latvia,Medium,Non-Host,Beijing,China,0,LAT,2008 Summer,Europe,Summer,Medium,Golf,2008,27,2,1,11.111,5,2,0,3,2
+Estonia,High,Non-Host,Beijing,China,0,EST,2008 Summer,Europe,Summer,Medium,Basketball,2008,38,0,2,7.895,8,1,1,3,2
+Lithuania,Medium,Non-Host,Beijing,China,0,LTU,2008 Summer,Europe,Summer,Medium,Sailing,2008,32,3,1,12.5,6,3,0,4,2
+Uzbekistan,Low,Non-Host,Beijing,China,0,UZB,2008 Summer,Asia,Summer,Medium,Swimming,2008,12,0,1,8.333,3,35,0,1,2
+Thailand,Medium,Non-Host,Beijing,China,0,THA,2008 Summer,Asia,Summer,Low,Weightlifting,2008,40,0,0,7.5,6,70,3,3,1
+Dominican Republic,Low,Non-Host,Beijing,China,0,DOM,2008 Summer,North America,Summer,Low,Judo,2008,30,1,2,10.0,7,11,0,3,1
+Colombia,Medium,Non-Host,Beijing,China,0,COL,2008 Summer,South America,Summer,Low,Rowing,2008,2,2,1,150.0,5,51,0,3,1
+Armenia,Low,Non-Host,Beijing,China,0,ARM,2008 Summer,Europe/Asia,Summer,Medium,Skateboarding,2008,24,0,0,4.167,2,3,1,1,2
+Mongolia,Low,Non-Host,Beijing,China,0,MGL,2008 Summer,Asia,Summer,Medium,Triathlon,2008,1,1,0,300.0,5,3,2,3,2
+Indonesia,Medium,Non-Host,Beijing,China,0,INA,2008 Summer,Asia,Summer,Low,Judo,2008,17,1,1,17.647,6,275,1,3,1
+Philippines,Low,Non-Host,Beijing,China,0,PHI,2008 Summer,Asia,Summer,Low,Judo,2008,22,2,0,9.091,2,115,0,2,1
+United States,High,Non-Host,Vancouver,Canada,0,USA,2010 Winter,North America,Winter,High,Biathlon Mixed Relay,2010,316,21,8,12.025,63,335,9,38,3
+China,High,Non-Host,Vancouver,Canada,0,CHN,2010 Winter,Asia,Winter,High,Biathlon Mixed Relay,2010,285,18,13,17.193,93,1411,18,49,3
+Russia,Medium,Non-Host,Vancouver,Canada,0,RUS,2010 Winter,Europe,Winter,High,Biathlon Mixed Relay,2010,191,11,7,13.089,46,144,7,25,3
+Great Britain,High,Non-Host,Vancouver,Canada,0,GBR,2010 Winter,Europe,Winter,High,Curling,2010,143,5,1,6.993,16,67,4,10,3
+Germany,High,Non-Host,Vancouver,Canada,0,GER,2010 Winter,Europe,Winter,High,Speed Skating,2010,153,7,5,13.072,38,84,8,20,3
+Australia,High,Non-Host,Vancouver,Canada,0,AUS,2010 Winter,Oceania,Winter,High,Ski Jumping,2010,111,5,11,18.018,46,26,4,20,3
+France,High,Non-Host,Vancouver,Canada,0,FRA,2010 Winter,Europe,Winter,High,Ice Hockey,2010,95,3,8,14.737,33,68,3,14,3
+Japan,High,Non-Host,Vancouver,Canada,0,JPN,2010 Winter,Asia,Winter,High,Cross-Country Skiing,2010,106,10,2,18.868,32,125,8,20,3
+South Korea,High,Non-Host,Vancouver,Canada,0,KOR,2010 Winter,Asia,Winter,Medium,Curling,2010,77,7,2,15.584,19,52,3,12,2
+Italy,High,Non-Host,Vancouver,Canada,0,ITA,2010 Winter,Europe,Winter,Medium,Alpine Skiing,2010,91,7,2,13.187,19,59,3,12,2
+Netherlands,High,Non-Host,Vancouver,Canada,0,NED,2010 Winter,Europe,Winter,Medium,Cross-Country Skiing,2010,79,1,3,8.861,16,18,3,7,2
+Hungary,Medium,Non-Host,Vancouver,Canada,0,HUN,2010 Winter,Europe,Winter,High,Speed Skating,2010,81,4,3,12.346,19,10,3,10,3
+Norway,High,Non-Host,Vancouver,Canada,0,NOR,2010 Winter,Europe,Winter,High,Skeleton,2010,77,2,4,10.39,18,5,2,8,3
+Canada,High,Host Nation,Vancouver,Canada,1,CAN,2010 Winter,North America,Winter,Medium,Freestyle Skiing,2010,100,3,3,10.0,20,38,4,10,2
+New Zealand,High,Non-Host,Vancouver,Canada,0,NZL,2010 Winter,Oceania,Winter,Medium,Figure Skating,2010,22,0,1,9.091,5,5,1,2,2
+Spain,High,Non-Host,Vancouver,Canada,0,ESP,2010 Winter,Europe,Winter,Medium,Bobsled,2010,29,0,0,3.448,2,47,1,1,2
+Ukraine,Medium,Non-Host,Vancouver,Canada,0,UKR,2010 Winter,Europe,Winter,Medium,Ski Jumping,2010,19,0,1,5.263,3,44,0,1,2
+Sweden,High,Non-Host,Vancouver,Canada,0,SWE,2010 Winter,Europe,Winter,Medium,Luge,2010,7,0,0,42.857,6,10,3,3,2
+Switzerland,High,Non-Host,Vancouver,Canada,0,SUI,2010 Winter,Europe,Winter,Medium,Curling,2010,10,0,1,20.0,5,9,1,2,2
+Austria,High,Non-Host,Vancouver,Canada,0,AUT,2010 Winter,Europe,Winter,Medium,Nordic Combined,2010,35,1,0,5.714,3,9,1,2,2
+Belgium,High,Non-Host,Vancouver,Canada,0,BEL,2010 Winter,Europe,Winter,Low,Ski Jumping,2010,39,0,1,5.128,5,11,1,2,1
+Poland,Medium,Non-Host,Vancouver,Canada,0,POL,2010 Winter,Europe,Winter,Medium,Figure Skating,2010,53,1,2,9.434,11,38,2,5,2
+Czech Republic,Medium,Non-Host,Vancouver,Canada,0,CZE,2010 Winter,Europe,Winter,Medium,Alpine Skiing,2010,3,0,0,33.333,2,11,1,1,2
+Romania,Medium,Non-Host,Vancouver,Canada,0,ROU,2010 Winter,Europe,Winter,Medium,Biathlon,2010,31,2,0,9.677,4,19,1,3,2
+South Africa,Medium,Non-Host,Vancouver,Canada,0,RSA,2010 Winter,Africa,Winter,Low,Cross-Country Skiing,2010,1,1,0,100.0,1,60,0,1,1
+Argentina,Medium,Non-Host,Vancouver,Canada,0,ARG,2010 Winter,South America,Winter,Low,Short Track,2010,45,2,0,4.444,2,46,0,2,1
+Mexico,Medium,Non-Host,Vancouver,Canada,0,MEX,2010 Winter,North America,Winter,Low,Ice Hockey,2010,23,1,1,13.043,6,130,1,3,1
+Turkey,Medium,Non-Host,Vancouver,Canada,0,TUR,2010 Winter,Europe/Asia,Winter,Medium,Snowboard,2010,35,0,2,14.286,12,85,3,5,2
+Kazakhstan,Medium,Non-Host,Vancouver,Canada,0,KAZ,2010 Winter,Asia,Winter,Medium,Snowboard,2010,9,1,0,22.222,3,19,1,2,2
+Belarus,Medium,Non-Host,Vancouver,Canada,0,BLR,2010 Winter,Europe,Winter,Medium,Skeleton,2010,18,1,0,16.667,5,10,2,3,2
+Croatia,Medium,Non-Host,Vancouver,Canada,0,CRO,2010 Winter,Europe,Winter,Medium,Bobsled,2010,36,1,1,11.111,8,4,2,4,2
+Greece,Medium,Non-Host,Vancouver,Canada,0,GRE,2010 Winter,Europe,Winter,Low,Cross-Country Skiing,2010,15,1,0,6.667,1,10,0,1,1
+North Korea,Low,Non-Host,Vancouver,Canada,0,PRK,2010 Winter,Asia,Winter,High,Snowboard,2010,41,2,1,9.756,7,26,1,4,3
+Bahrain,High,Non-Host,Vancouver,Canada,0,BRN,2010 Winter,Asia,Winter,Medium,Ice Hockey,2010,39,1,1,10.256,8,2,2,4,2
+Morocco,Low,Non-Host,Vancouver,Canada,0,MAR,2010 Winter,Africa,Winter,Low,Ice Hockey,2010,1,1,2,400.0,9,37,1,4,1
+Uganda,Low,Non-Host,Vancouver,Canada,0,UGA,2010 Winter,Africa,Winter,Low,Biathlon,2010,22,0,0,4.545,2,47,1,1,1
+Georgia,Low,Non-Host,Vancouver,Canada,0,GEO,2010 Winter,Europe/Asia,Winter,Medium,Short Track,2010,31,1,2,9.677,7,4,0,3,2
+Azerbaijan,Medium,Non-Host,Vancouver,Canada,0,AZE,2010 Winter,Europe/Asia,Winter,Medium,Nordic Combined,2010,30,1,1,16.667,10,10,3,5,2
+Slovakia,Medium,Non-Host,Vancouver,Canada,0,SVK,2010 Winter,Europe,Winter,Medium,Skeleton,2010,9,0,0,11.111,2,5,1,1,2
+Finland,High,Non-Host,Vancouver,Canada,0,FIN,2010 Winter,Europe,Winter,Medium,Curling,2010,1,2,1,300.0,5,6,0,3,2
+Slovenia,High,Non-Host,Vancouver,Canada,0,SLO,2010 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,2010,32,0,1,12.5,9,2,3,4,2
+Latvia,Medium,Non-Host,Vancouver,Canada,0,LAT,2010 Winter,Europe,Winter,Medium,Short Track,2010,6,2,1,50.0,5,2,0,3,2
+Estonia,High,Non-Host,Vancouver,Canada,0,EST,2010 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,2010,27,0,2,7.407,6,1,0,2,2
+Lithuania,Medium,Non-Host,Vancouver,Canada,0,LTU,2010 Winter,Europe,Winter,Medium,Curling,2010,19,0,1,15.789,7,3,2,3,2
+Uzbekistan,Low,Non-Host,Vancouver,Canada,0,UZB,2010 Winter,Asia,Winter,Medium,Skeleton,2010,11,1,1,18.182,4,35,0,2,2
+Armenia,Low,Non-Host,Vancouver,Canada,0,ARM,2010 Winter,Europe/Asia,Winter,Medium,Luge,2010,12,1,0,8.333,1,3,0,1,2
+Mongolia,Low,Non-Host,Vancouver,Canada,0,MGL,2010 Winter,Asia,Winter,Medium,Skeleton,2010,17,0,1,5.882,3,3,0,1,2
+United States,High,Non-Host,London,United Kingdom,0,USA,2012 Summer,North America,Summer,High,Surfing,2012,296,7,9,10.473,64,335,15,31,3
+China,High,Non-Host,London,United Kingdom,0,CHN,2012 Summer,Asia,Summer,High,Rowing,2012,273,15,14,13.919,75,1411,9,38,3
+Russia,Medium,Non-Host,London,United Kingdom,0,RUS,2012 Summer,Europe,Summer,High,Taekwondo,2012,189,10,12,12.698,50,144,2,24,3
+Great Britain,High,Non-Host,London,United Kingdom,0,GBR,2012 Summer,Europe,Summer,High,Cycling,2012,193,12,8,15.026,54,67,9,29,3
+Germany,High,Non-Host,London,United Kingdom,0,GER,2012 Summer,Europe,Summer,High,Football/Soccer,2012,156,7,5,12.179,36,84,7,19,3
+Australia,High,Non-Host,London,United Kingdom,0,AUS,2012 Summer,Oceania,Summer,High,Wrestling,2012,115,6,3,13.043,27,26,6,15,3
+France,High,Non-Host,London,United Kingdom,0,FRA,2012 Summer,Europe,Summer,High,Fencing,2012,108,2,5,12.963,31,68,7,14,3
+Japan,High,Non-Host,London,United Kingdom,0,JPN,2012 Summer,Asia,Summer,High,Rugby Sevens,2012,98,6,2,14.286,24,125,6,14,3
+South Korea,High,Non-Host,London,United Kingdom,0,KOR,2012 Summer,Asia,Summer,Medium,Basketball,2012,72,2,4,9.722,16,52,1,7,2
+Italy,High,Non-Host,London,United Kingdom,0,ITA,2012 Summer,Europe,Summer,Medium,Weightlifting,2012,85,2,2,8.235,14,59,3,7,2
+Netherlands,High,Non-Host,London,United Kingdom,0,NED,2012 Summer,Europe,Summer,Medium,Fencing,2012,61,0,4,13.115,20,18,4,8,2
+Hungary,Medium,Non-Host,London,United Kingdom,0,HUN,2012 Summer,Europe,Summer,High,Sailing,2012,94,1,3,8.511,18,10,4,8,3
+Norway,High,Non-Host,London,United Kingdom,0,NOR,2012 Summer,Europe,Summer,High,Wrestling,2012,21,2,0,9.524,2,5,0,2,3
+Canada,High,Non-Host,London,United Kingdom,0,CAN,2012 Summer,North America,Summer,Medium,Pentathlon,2012,55,3,0,7.273,5,38,1,4,2
+New Zealand,High,Non-Host,London,United Kingdom,0,NZL,2012 Summer,Oceania,Summer,Medium,Hockey (Field),2012,27,1,0,3.704,1,5,0,1,2
+Cuba,Low,Non-Host,London,United Kingdom,0,CUB,2012 Summer,North America,Summer,High,Tennis,2012,1,1,1,400.0,8,11,2,4,3
+Kenya,Low,Non-Host,London,United Kingdom,0,KEN,2012 Summer,Africa,Summer,Medium,Athletics,2012,46,0,2,4.348,6,55,0,2,2
+Ethiopia,Low,Non-Host,London,United Kingdom,0,ETH,2012 Summer,Africa,Summer,Low,Football/Soccer,2012,12,0,0,25.0,6,120,3,3,1
+Brazil,Medium,Non-Host,London,United Kingdom,0,BRA,2012 Summer,South America,Summer,Medium,Hockey (Field),2012,4,2,0,50.0,2,215,0,2,2
+Spain,High,Non-Host,London,United Kingdom,0,ESP,2012 Summer,Europe,Summer,Medium,Swimming,2012,17,2,2,23.529,8,47,0,4,2
+Ukraine,Medium,Non-Host,London,United Kingdom,0,UKR,2012 Summer,Europe,Summer,Medium,Table Tennis,2012,19,1,1,10.526,4,44,0,2,2
+Denmark,High,Non-Host,London,United Kingdom,0,DEN,2012 Summer,Europe,Summer,Medium,Weightlifting,2012,11,2,1,27.273,5,6,0,3,2
+Austria,High,Non-Host,London,United Kingdom,0,AUT,2012 Summer,Europe,Summer,Medium,Canoe/Kayak,2012,55,0,0,3.636,4,9,2,2,2
+Belgium,High,Non-Host,London,United Kingdom,0,BEL,2012 Summer,Europe,Summer,Low,Hockey (Field),2012,29,0,0,3.448,2,11,1,1,1
+Poland,Medium,Non-Host,London,United Kingdom,0,POL,2012 Summer,Europe,Summer,Medium,Football/Soccer,2012,39,1,0,5.128,3,38,1,2,2
+Czech Republic,Medium,Non-Host,London,United Kingdom,0,CZE,2012 Summer,Europe,Summer,Medium,Wrestling,2012,17,3,3,41.176,14,11,1,7,2
+Romania,Medium,Non-Host,London,United Kingdom,0,ROU,2012 Summer,Europe,Summer,Medium,Football/Soccer,2012,24,1,1,8.333,4,19,0,2,2
+Jamaica,Low,Non-Host,London,United Kingdom,0,JAM,2012 Summer,North America,Summer,Medium,Rugby Sevens,2012,24,0,1,4.167,3,3,0,1,2
+India,Medium,Non-Host,London,United Kingdom,0,IND,2012 Summer,Asia,Summer,Low,Fencing,2012,34,0,3,11.765,11,1400,1,4,1
+South Africa,Medium,Non-Host,London,United Kingdom,0,RSA,2012 Summer,Africa,Summer,Low,Skateboarding,2012,1,2,0,300.0,4,60,1,3,1
+Argentina,Medium,Non-Host,London,United Kingdom,0,ARG,2012 Summer,South America,Summer,Low,Athletics,2012,39,2,1,12.821,9,46,2,5,1
+Mexico,Medium,Non-Host,London,United Kingdom,0,MEX,2012 Summer,North America,Summer,Low,Badminton,2012,35,0,0,2.857,2,130,1,1,1
+Turkey,Medium,Non-Host,London,United Kingdom,0,TUR,2012 Summer,Europe/Asia,Summer,Medium,Triathlon,2012,17,1,0,11.765,3,85,1,2,2
+Iran,Medium,Non-Host,London,United Kingdom,0,IRI,2012 Summer,Asia,Summer,Medium,Sport Climbing,2012,33,0,1,3.03,3,86,0,1,2
+Kazakhstan,Medium,Non-Host,London,United Kingdom,0,KAZ,2012 Summer,Asia,Summer,Medium,Boxing,2012,5,1,0,20.0,1,19,0,1,2
+Belarus,Medium,Non-Host,London,United Kingdom,0,BLR,2012 Summer,Europe,Summer,Medium,Weightlifting,2012,23,1,1,8.696,4,10,0,2,2
+Croatia,Medium,Non-Host,London,United Kingdom,0,CRO,2012 Summer,Europe,Summer,Medium,Basketball,2012,21,0,2,19.048,10,4,2,4,2
+Greece,Medium,Non-Host,London,United Kingdom,0,GRE,2012 Summer,Europe,Summer,Low,Table Tennis,2012,37,0,3,10.811,11,10,1,4,1
+North Korea,Low,Non-Host,London,United Kingdom,0,PRK,2012 Summer,Asia,Summer,High,Basketball,2012,10,3,0,30.0,3,26,0,3,3
+Bahrain,High,Non-Host,London,United Kingdom,0,BRN,2012 Summer,Asia,Summer,Medium,Taekwondo,2012,1,0,3,300.0,9,2,0,3,2
+Morocco,Low,Non-Host,London,United Kingdom,0,MAR,2012 Summer,Africa,Summer,Low,Badminton,2012,59,1,1,5.085,6,37,1,3,1
+Uganda,Low,Non-Host,London,United Kingdom,0,UGA,2012 Summer,Africa,Summer,Low,Canoe/Kayak,2012,6,1,0,33.333,3,47,1,2,1
+Georgia,Low,Non-Host,London,United Kingdom,0,GEO,2012 Summer,Europe/Asia,Summer,Medium,Water Polo,2012,17,3,0,23.529,5,4,1,4,2
+Azerbaijan,Medium,Non-Host,London,United Kingdom,0,AZE,2012 Summer,Europe/Asia,Summer,Medium,Diving,2012,18,0,0,5.556,2,10,1,1,2
+Slovakia,Medium,Non-Host,London,United Kingdom,0,SVK,2012 Summer,Europe,Summer,Medium,Gymnastics,2012,17,1,0,17.647,5,5,2,3,2
+Finland,High,Non-Host,London,United Kingdom,0,FIN,2012 Summer,Europe,Summer,Medium,Wrestling,2012,11,1,1,36.364,8,6,2,4,2
+Slovenia,High,Non-Host,London,United Kingdom,0,SLO,2012 Summer,Europe,Summer,Medium,Surfing,2012,24,0,0,4.167,2,2,1,1,2
+Latvia,Medium,Non-Host,London,United Kingdom,0,LAT,2012 Summer,Europe,Summer,Medium,Cycling,2012,8,0,0,12.5,2,2,1,1,2
+Estonia,High,Non-Host,London,United Kingdom,0,EST,2012 Summer,Europe,Summer,Medium,Gymnastics,2012,16,1,0,18.75,5,1,2,3,2
+Lithuania,Medium,Non-Host,London,United Kingdom,0,LTU,2012 Summer,Europe,Summer,Medium,Pentathlon,2012,35,0,0,5.714,4,3,2,2,2
+Uzbekistan,Low,Non-Host,London,United Kingdom,0,UZB,2012 Summer,Asia,Summer,Medium,Water Polo,2012,7,0,1,14.286,3,35,0,1,2
+Dominican Republic,Low,Non-Host,London,United Kingdom,0,DOM,2012 Summer,North America,Summer,Low,Table Tennis,2012,30,1,2,10.0,7,11,0,3,1
+Colombia,Medium,Non-Host,London,United Kingdom,0,COL,2012 Summer,South America,Summer,Low,Triathlon,2012,39,0,1,5.128,5,51,1,2,1
+Armenia,Low,Non-Host,London,United Kingdom,0,ARM,2012 Summer,Europe/Asia,Summer,Medium,Golf,2012,6,1,0,16.667,1,3,0,1,2
+Mongolia,Low,Non-Host,London,United Kingdom,0,MGL,2012 Summer,Asia,Summer,Medium,Breakdancing,2012,17,1,0,11.765,3,3,1,2,2
+Philippines,Low,Non-Host,London,United Kingdom,0,PHI,2012 Summer,Asia,Summer,Low,Swimming,2012,24,1,0,8.333,3,115,1,2,1
+United States,High,Non-Host,Sochi,Russia,0,USA,2014 Winter,North America,Winter,High,Freestyle Skiing,2014,309,17,22,15.534,101,335,9,48,3
+China,High,Non-Host,Sochi,Russia,0,CHN,2014 Winter,Asia,Winter,High,Speed Skating,2014,270,13,16,16.667,93,1411,16,45,3
+Russia,Medium,Host Nation,Sochi,Russia,1,RUS,2014 Winter,Europe,Winter,High,Freestyle Skiing,2014,224,13,11,17.411,76,144,15,39,3
+Great Britain,High,Non-Host,Sochi,Russia,0,GBR,2014 Winter,Europe,Winter,High,Snowboard,2014,198,11,5,16.667,60,67,17,33,3
+Germany,High,Non-Host,Sochi,Russia,0,GER,2014 Winter,Europe,Winter,High,Skeleton,2014,144,6,5,10.417,29,84,4,15,3
+Australia,High,Non-Host,Sochi,Russia,0,AUS,2014 Winter,Oceania,Winter,High,Ice Hockey,2014,107,4,5,10.28,23,26,2,11,3
+France,High,Non-Host,Sochi,Russia,0,FRA,2014 Winter,Europe,Winter,High,Speed Skating,2014,107,6,3,14.019,27,68,6,15,3
+Japan,High,Non-Host,Sochi,Russia,0,JPN,2014 Winter,Asia,Winter,High,Ice Hockey,2014,136,2,5,6.618,21,125,2,9,3
+South Korea,High,Non-Host,Sochi,Russia,0,KOR,2014 Winter,Asia,Winter,Medium,Ice Hockey,2014,88,5,2,11.364,17,52,3,10,2
+Italy,High,Non-Host,Sochi,Russia,0,ITA,2014 Winter,Europe,Winter,Medium,Luge,2014,91,8,1,13.187,17,59,3,12,2
+Netherlands,High,Non-Host,Sochi,Russia,0,NED,2014 Winter,Europe,Winter,Medium,Luge,2014,72,2,2,11.111,16,18,4,8,2
+Hungary,Medium,Non-Host,Sochi,Russia,0,HUN,2014 Winter,Europe,Winter,High,Alpine Skiing,2014,57,0,3,10.526,15,10,3,6,3
+Norway,High,Non-Host,Sochi,Russia,0,NOR,2014 Winter,Europe,Winter,High,Cross-Country Skiing,2014,60,5,1,16.667,16,5,4,10,3
+Canada,High,Non-Host,Sochi,Russia,0,CAN,2014 Winter,North America,Winter,Medium,Curling,2014,79,2,5,13.924,25,38,4,11,2
+New Zealand,High,Non-Host,Sochi,Russia,0,NZL,2014 Winter,Oceania,Winter,Medium,Skeleton,2014,13,2,1,30.769,7,5,1,4,2
+Spain,High,Non-Host,Sochi,Russia,0,ESP,2014 Winter,Europe,Winter,Medium,Luge,2014,50,1,0,4.0,3,47,1,2,2
+Ukraine,Medium,Non-Host,Sochi,Russia,0,UKR,2014 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,2014,41,0,1,9.756,9,44,3,4,2
+Sweden,High,Non-Host,Sochi,Russia,0,SWE,2014 Winter,Europe,Winter,Medium,Luge,2014,10,1,0,10.0,1,10,0,1,2
+Denmark,High,Non-Host,Sochi,Russia,0,DEN,2014 Winter,Europe,Winter,Medium,Ice Hockey,2014,3,1,1,133.333,8,6,2,4,2
+Belgium,High,Non-Host,Sochi,Russia,0,BEL,2014 Winter,Europe,Winter,Low,Alpine Skiing,2014,15,1,2,26.667,9,11,1,4,1
+Poland,Medium,Non-Host,Sochi,Russia,0,POL,2014 Winter,Europe,Winter,Medium,Nordic Combined,2014,1,1,1,200.0,4,38,0,2,2
+Czech Republic,Medium,Non-Host,Sochi,Russia,0,CZE,2014 Winter,Europe,Winter,Medium,Freestyle Skiing,2014,15,0,3,26.667,11,11,1,4,2
+Romania,Medium,Non-Host,Sochi,Russia,0,ROU,2014 Winter,Europe,Winter,Medium,Ice Hockey,2014,54,2,0,3.704,2,19,0,2,2
+South Africa,Medium,Non-Host,Sochi,Russia,0,RSA,2014 Winter,Africa,Winter,Low,Bobsled,2014,12,2,1,25.0,5,60,0,3,1
+Argentina,Medium,Non-Host,Sochi,Russia,0,ARG,2014 Winter,South America,Winter,Low,Ski Jumping,2014,9,1,1,22.222,4,46,0,2,1
+Mexico,Medium,Non-Host,Sochi,Russia,0,MEX,2014 Winter,North America,Winter,Low,Skeleton,2014,15,1,1,13.333,4,130,0,2,1
+Turkey,Medium,Non-Host,Sochi,Russia,0,TUR,2014 Winter,Europe/Asia,Winter,Medium,Biathlon,2014,5,0,1,20.0,3,85,0,1,2
+Iran,Medium,Non-Host,Sochi,Russia,0,IRI,2014 Winter,Asia,Winter,Medium,Ski Jumping,2014,1,0,1,200.0,5,86,1,2,2
+Kazakhstan,Medium,Non-Host,Sochi,Russia,0,KAZ,2014 Winter,Asia,Winter,Medium,Ski Jumping,2014,36,1,3,11.111,10,19,0,4,2
+Belarus,Medium,Non-Host,Sochi,Russia,0,BLR,2014 Winter,Europe,Winter,Medium,Bobsled,2014,14,1,0,21.429,5,10,2,3,2
+Croatia,Medium,Non-Host,Sochi,Russia,0,CRO,2014 Winter,Europe,Winter,Medium,Curling,2014,32,0,0,3.125,2,4,1,1,2
+Greece,Medium,Non-Host,Sochi,Russia,0,GRE,2014 Winter,Europe,Winter,Low,Biathlon Mixed Relay,2014,14,1,2,28.571,9,10,1,4,1
+North Korea,Low,Non-Host,Sochi,Russia,0,PRK,2014 Winter,Asia,Winter,High,Cross-Country Skiing,2014,3,0,1,66.667,5,26,1,2,3
+Morocco,Low,Non-Host,Sochi,Russia,0,MAR,2014 Winter,Africa,Winter,Low,Ice Hockey,2014,44,0,1,2.273,3,37,0,1,1
+Uganda,Low,Non-Host,Sochi,Russia,0,UGA,2014 Winter,Africa,Winter,Low,Biathlon,2014,40,1,0,2.5,1,47,0,1,1
+Georgia,Low,Non-Host,Sochi,Russia,0,GEO,2014 Winter,Europe/Asia,Winter,Medium,Bobsled,2014,17,1,0,5.882,1,4,0,1,2
+Azerbaijan,Medium,Non-Host,Sochi,Russia,0,AZE,2014 Winter,Europe/Asia,Winter,Medium,Ice Hockey,2014,27,0,3,11.111,9,10,0,3,2
+Slovakia,Medium,Non-Host,Sochi,Russia,0,SVK,2014 Winter,Europe,Winter,Medium,Snowboard,2014,9,1,0,11.111,1,5,0,1,2
+Finland,High,Non-Host,Sochi,Russia,0,FIN,2014 Winter,Europe,Winter,Medium,Nordic Combined,2014,20,1,1,10.0,4,6,0,2,2
+Slovenia,High,Non-Host,Sochi,Russia,0,SLO,2014 Winter,Europe,Winter,Medium,Cross-Country Skiing,2014,51,1,1,5.882,6,2,1,3,2
+Latvia,Medium,Non-Host,Sochi,Russia,0,LAT,2014 Winter,Europe,Winter,Medium,Curling,2014,11,1,0,18.182,3,2,1,2,2
+Estonia,High,Non-Host,Sochi,Russia,0,EST,2014 Winter,Europe,Winter,Medium,Alpine Skiing,2014,1,0,0,200.0,4,1,2,2,2
+Uzbekistan,Low,Non-Host,Sochi,Russia,0,UZB,2014 Winter,Asia,Winter,Medium,Snowboard,2014,42,0,0,2.381,2,35,1,1,2
+Armenia,Low,Non-Host,Sochi,Russia,0,ARM,2014 Winter,Europe/Asia,Winter,Medium,Alpine Skiing,2014,1,2,0,200.0,2,3,0,2,2
+United States,High,Non-Host,Rio de Janeiro,Brazil,0,USA,2016 Summer,North America,Summer,High,Cycling,2016,303,16,13,11.221,65,335,5,34,3
+China,High,Non-Host,Rio de Janeiro,Brazil,0,CHN,2016 Summer,Asia,Summer,High,Pentathlon,2016,292,21,14,16.096,87,1411,12,47,3
+Russia,Medium,Non-Host,Rio de Janeiro,Brazil,0,RUS,2016 Summer,Europe,Summer,High,Skateboarding,2016,180,9,8,13.889,49,144,8,25,3
+Great Britain,High,Non-Host,Rio de Janeiro,Brazil,0,GBR,2016 Summer,Europe,Summer,High,Cycling,2016,203,12,8,14.778,56,67,10,30,3
+Germany,High,Non-Host,Rio de Janeiro,Brazil,0,GER,2016 Summer,Europe,Summer,High,Taekwondo,2016,138,4,5,10.145,29,84,5,14,3
+Australia,High,Non-Host,Rio de Janeiro,Brazil,0,AUS,2016 Summer,Oceania,Summer,High,Weightlifting,2016,133,8,3,11.278,25,26,4,15,3
+France,High,Non-Host,Rio de Janeiro,Brazil,0,FRA,2016 Summer,Europe,Summer,High,Table Tennis,2016,94,4,7,15.957,33,68,4,15,3
+Japan,High,Non-Host,Rio de Janeiro,Brazil,0,JPN,2016 Summer,Asia,Summer,High,Hockey (Field),2016,114,4,2,7.018,14,125,2,8,3
+South Korea,High,Non-Host,Rio de Janeiro,Brazil,0,KOR,2016 Summer,Asia,Summer,Medium,Athletics,2016,58,1,4,18.966,25,52,6,11,2
+Italy,High,Non-Host,Rio de Janeiro,Brazil,0,ITA,2016 Summer,Europe,Summer,Medium,Archery,2016,82,7,5,18.293,28,59,3,15,2
+Netherlands,High,Non-Host,Rio de Janeiro,Brazil,0,NED,2016 Summer,Europe,Summer,Medium,Sailing,2016,84,4,1,10.714,15,18,4,9,2
+Hungary,Medium,Non-Host,Rio de Janeiro,Brazil,0,HUN,2016 Summer,Europe,Summer,High,Shooting,2016,79,3,4,12.658,21,10,3,10,3
+Norway,High,Non-Host,Rio de Janeiro,Brazil,0,NOR,2016 Summer,Europe,Summer,High,Surfing,2016,20,1,3,35.0,16,5,3,7,3
+Canada,High,Non-Host,Rio de Janeiro,Brazil,0,CAN,2016 Summer,North America,Summer,Medium,Skateboarding,2016,27,5,4,37.037,19,38,1,10,2
+New Zealand,High,Non-Host,Rio de Janeiro,Brazil,0,NZL,2016 Summer,Oceania,Summer,Medium,Canoe/Kayak,2016,11,1,2,27.273,7,5,0,3,2
+Cuba,Low,Non-Host,Rio de Janeiro,Brazil,0,CUB,2016 Summer,North America,Summer,High,Badminton,2016,11,0,2,45.455,12,11,3,5,3
+Kenya,Low,Non-Host,Rio de Janeiro,Brazil,0,KEN,2016 Summer,Africa,Summer,Medium,Golf,2016,12,0,2,16.667,6,55,0,2,2
+Ethiopia,Low,Non-Host,Rio de Janeiro,Brazil,0,ETH,2016 Summer,Africa,Summer,Low,Cycling,2016,38,1,2,7.895,7,120,0,3,1
+Brazil,Medium,Host Nation,Rio de Janeiro,Brazil,1,BRA,2016 Summer,South America,Summer,Medium,Hockey (Field),2016,26,2,4,23.077,14,215,0,6,2
+Spain,High,Non-Host,Rio de Janeiro,Brazil,0,ESP,2016 Summer,Europe,Summer,Medium,Canoe/Kayak,2016,40,1,1,5.0,4,47,0,2,2
+Sweden,High,Non-Host,Rio de Janeiro,Brazil,0,SWE,2016 Summer,Europe,Summer,Medium,Cycling,2016,10,2,1,40.0,7,10,1,4,2
+Denmark,High,Non-Host,Rio de Janeiro,Brazil,0,DEN,2016 Summer,Europe,Summer,Medium,Swimming,2016,13,2,0,23.077,4,6,1,3,2
+Switzerland,High,Non-Host,Rio de Janeiro,Brazil,0,SUI,2016 Summer,Europe,Summer,Medium,Pentathlon,2016,22,0,1,9.091,5,9,1,2,2
+Austria,High,Non-Host,Rio de Janeiro,Brazil,0,AUT,2016 Summer,Europe,Summer,Medium,Sport Climbing,2016,31,1,1,6.452,4,9,0,2,2
+Belgium,High,Non-Host,Rio de Janeiro,Brazil,0,BEL,2016 Summer,Europe,Summer,Low,Golf,2016,26,0,0,3.846,2,11,1,1,1
+Poland,Medium,Non-Host,Rio de Janeiro,Brazil,0,POL,2016 Summer,Europe,Summer,Medium,Football/Soccer,2016,14,1,1,21.429,6,38,1,3,2
+Czech Republic,Medium,Non-Host,Rio de Janeiro,Brazil,0,CZE,2016 Summer,Europe,Summer,Medium,Fencing,2016,13,1,0,15.385,3,11,1,2,2
+Romania,Medium,Non-Host,Rio de Janeiro,Brazil,0,ROU,2016 Summer,Europe,Summer,Medium,Skateboarding,2016,7,0,1,28.571,5,19,1,2,2
+Jamaica,Low,Non-Host,Rio de Janeiro,Brazil,0,JAM,2016 Summer,North America,Summer,Medium,Basketball,2016,37,1,0,5.405,3,3,1,2,2
+India,Medium,Non-Host,Rio de Janeiro,Brazil,0,IND,2016 Summer,Asia,Summer,Low,Athletics,2016,23,0,1,4.348,3,1400,0,1,1
+South Africa,Medium,Non-Host,Rio de Janeiro,Brazil,0,RSA,2016 Summer,Africa,Summer,Low,Shooting,2016,28,0,1,3.571,3,60,0,1,1
+Argentina,Medium,Non-Host,Rio de Janeiro,Brazil,0,ARG,2016 Summer,South America,Summer,Low,Triathlon,2016,28,2,2,17.857,10,46,1,5,1
+Mexico,Medium,Non-Host,Rio de Janeiro,Brazil,0,MEX,2016 Summer,North America,Summer,Low,Pentathlon,2016,55,1,0,1.818,1,130,0,1,1
+Turkey,Medium,Non-Host,Rio de Janeiro,Brazil,0,TUR,2016 Summer,Europe/Asia,Summer,Medium,Table Tennis,2016,9,1,1,22.222,4,85,0,2,2
+Iran,Medium,Non-Host,Rio de Janeiro,Brazil,0,IRI,2016 Summer,Asia,Summer,Medium,Cycling,2016,1,0,1,100.0,3,86,0,1,2
+Kazakhstan,Medium,Non-Host,Rio de Janeiro,Brazil,0,KAZ,2016 Summer,Asia,Summer,Medium,Boxing,2016,23,0,1,8.696,5,19,1,2,2
+Belarus,Medium,Non-Host,Rio de Janeiro,Brazil,0,BLR,2016 Summer,Europe,Summer,Medium,Taekwondo,2016,27,0,1,7.407,5,10,1,2,2
+Croatia,Medium,Non-Host,Rio de Janeiro,Brazil,0,CRO,2016 Summer,Europe,Summer,Medium,Shooting,2016,22,1,0,4.545,1,4,0,1,2
+Greece,Medium,Non-Host,Rio de Janeiro,Brazil,0,GRE,2016 Summer,Europe,Summer,Low,Weightlifting,2016,25,2,2,16.0,8,10,0,4,1
+North Korea,Low,Non-Host,Rio de Janeiro,Brazil,0,PRK,2016 Summer,Asia,Summer,High,Breakdancing,2016,1,1,0,200.0,3,26,1,2,3
+Bahrain,High,Non-Host,Rio de Janeiro,Brazil,0,BRN,2016 Summer,Asia,Summer,Medium,Breakdancing,2016,22,1,0,4.545,1,2,0,1,2
+Morocco,Low,Non-Host,Rio de Janeiro,Brazil,0,MAR,2016 Summer,Africa,Summer,Low,Volleyball,2016,1,0,1,100.0,3,37,0,1,1
+Uganda,Low,Non-Host,Rio de Janeiro,Brazil,0,UGA,2016 Summer,Africa,Summer,Low,Badminton,2016,19,1,1,10.526,4,47,0,2,1
+Georgia,Low,Non-Host,Rio de Janeiro,Brazil,0,GEO,2016 Summer,Europe/Asia,Summer,Medium,Weightlifting,2016,1,3,0,400.0,5,4,1,4,2
+Azerbaijan,Medium,Non-Host,Rio de Janeiro,Brazil,0,AZE,2016 Summer,Europe/Asia,Summer,Medium,Volleyball,2016,15,0,1,13.333,5,10,1,2,2
+Slovakia,Medium,Non-Host,Rio de Janeiro,Brazil,0,SVK,2016 Summer,Europe,Summer,Medium,Water Polo,2016,4,1,1,50.0,4,5,0,2,2
+Finland,High,Non-Host,Rio de Janeiro,Brazil,0,FIN,2016 Summer,Europe,Summer,Medium,Swimming,2016,17,1,0,11.765,3,6,1,2,2
+Slovenia,High,Non-Host,Rio de Janeiro,Brazil,0,SLO,2016 Summer,Europe,Summer,Medium,Handball,2016,34,0,0,2.941,2,2,1,1,2
+Latvia,Medium,Non-Host,Rio de Janeiro,Brazil,0,LAT,2016 Summer,Europe,Summer,Medium,Diving,2016,10,2,1,30.0,5,2,0,3,2
+Estonia,High,Non-Host,Rio de Janeiro,Brazil,0,EST,2016 Summer,Europe,Summer,Medium,Archery,2016,39,0,1,2.564,3,1,0,1,2
+Lithuania,Medium,Non-Host,Rio de Janeiro,Brazil,0,LTU,2016 Summer,Europe,Summer,Medium,Gymnastics,2016,25,0,2,12.0,8,3,1,3,2
+Uzbekistan,Low,Non-Host,Rio de Janeiro,Brazil,0,UZB,2016 Summer,Asia,Summer,Medium,Volleyball,2016,3,0,1,133.333,9,35,3,4,2
+Thailand,Medium,Non-Host,Rio de Janeiro,Brazil,0,THA,2016 Summer,Asia,Summer,Low,Sailing,2016,12,3,2,75.0,17,70,4,9,1
+Dominican Republic,Low,Non-Host,Rio de Janeiro,Brazil,0,DOM,2016 Summer,North America,Summer,Low,Athletics,2016,46,1,0,2.174,1,11,0,1,1
+Colombia,Medium,Non-Host,Rio de Janeiro,Brazil,0,COL,2016 Summer,South America,Summer,Low,Taekwondo,2016,13,0,1,15.385,5,51,1,2,1
+Armenia,Low,Non-Host,Rio de Janeiro,Brazil,0,ARM,2016 Summer,Europe/Asia,Summer,Medium,Diving,2016,3,1,1,66.667,4,3,0,2,2
+Indonesia,Medium,Non-Host,Rio de Janeiro,Brazil,0,INA,2016 Summer,Asia,Summer,Low,Athletics,2016,17,0,1,5.882,3,275,0,1,1
+Philippines,Low,Non-Host,Rio de Janeiro,Brazil,0,PHI,2016 Summer,Asia,Summer,Low,Volleyball,2016,18,1,2,16.667,7,115,0,3,1
+United States,High,Non-Host,PyeongChang,South Korea,0,USA,2018 Winter,North America,Winter,High,Biathlon Mixed Relay,2018,292,16,9,11.986,63,335,10,35,3
+China,High,Non-Host,PyeongChang,South Korea,0,CHN,2018 Winter,Asia,Winter,High,Snowboard,2018,313,10,14,11.502,76,1411,12,36,3
+Russia,Medium,Non-Host,PyeongChang,South Korea,0,RUS,2018 Winter,Europe,Winter,High,Figure Skating,2018,215,5,10,10.698,51,144,8,23,3
+Great Britain,High,Non-Host,PyeongChang,South Korea,0,GBR,2018 Winter,Europe,Winter,High,Biathlon,2018,200,10,13,13.5,57,67,4,27,3
+Germany,High,Non-Host,PyeongChang,South Korea,0,GER,2018 Winter,Europe,Winter,High,Figure Skating,2018,136,4,6,12.5,36,84,7,17,3
+Australia,High,Non-Host,PyeongChang,South Korea,0,AUS,2018 Winter,Oceania,Winter,High,Cross-Country Skiing,2018,101,5,4,16.832,33,26,8,17,3
+France,High,Non-Host,PyeongChang,South Korea,0,FRA,2018 Winter,Europe,Winter,High,Short Track,2018,94,4,8,19.149,40,68,6,18,3
+Japan,High,Non-Host,PyeongChang,South Korea,0,JPN,2018 Winter,Asia,Winter,High,Curling,2018,132,5,7,13.636,38,125,6,18,3
+South Korea,High,Host Nation,PyeongChang,South Korea,1,KOR,2018 Winter,Asia,Winter,Medium,Ski Jumping,2018,107,5,3,10.28,20,52,3,11,2
+Italy,High,Non-Host,PyeongChang,South Korea,0,ITA,2018 Winter,Europe,Winter,Medium,Speed Skating,2018,65,3,5,20.0,28,59,5,13,2
+Netherlands,High,Non-Host,PyeongChang,South Korea,0,NED,2018 Winter,Europe,Winter,Medium,Ski Jumping,2018,72,0,2,12.5,20,18,7,9,2
+Hungary,Medium,Non-Host,PyeongChang,South Korea,0,HUN,2018 Winter,Europe,Winter,High,Cross-Country Skiing,2018,69,3,1,10.145,12,10,3,7,3
+Norway,High,Non-Host,PyeongChang,South Korea,0,NOR,2018 Winter,Europe,Winter,High,Figure Skating,2018,65,4,1,18.462,21,5,7,12,3
+Canada,High,Non-Host,PyeongChang,South Korea,0,CAN,2018 Winter,North America,Winter,Medium,Luge,2018,89,7,3,13.483,20,38,2,12,2
+New Zealand,High,Non-Host,PyeongChang,South Korea,0,NZL,2018 Winter,Oceania,Winter,Medium,Bobsled,2018,1,1,0,100.0,1,5,0,1,2
+Ukraine,Medium,Non-Host,PyeongChang,South Korea,0,UKR,2018 Winter,Europe,Winter,Medium,Freestyle Skiing,2018,22,1,1,9.091,4,44,0,2,2
+Sweden,High,Non-Host,PyeongChang,South Korea,0,SWE,2018 Winter,Europe,Winter,Medium,Cross-Country Skiing,2018,13,0,1,15.385,5,10,1,2,2
+Denmark,High,Non-Host,PyeongChang,South Korea,0,DEN,2018 Winter,Europe,Winter,Medium,Luge,2018,32,1,1,9.375,6,6,1,3,2
+Austria,High,Non-Host,PyeongChang,South Korea,0,AUT,2018 Winter,Europe,Winter,Medium,Freestyle Skiing,2018,2,2,2,200.0,8,9,0,4,2
+Belgium,High,Non-Host,PyeongChang,South Korea,0,BEL,2018 Winter,Europe,Winter,Low,Ski Jumping,2018,14,0,2,14.286,6,11,0,2,1
+Poland,Medium,Non-Host,PyeongChang,South Korea,0,POL,2018 Winter,Europe,Winter,Medium,Skeleton,2018,1,0,1,100.0,3,38,0,1,2
+Czech Republic,Medium,Non-Host,PyeongChang,South Korea,0,CZE,2018 Winter,Europe,Winter,Medium,Nordic Combined,2018,10,0,0,30.0,6,11,3,3,2
+Romania,Medium,Non-Host,PyeongChang,South Korea,0,ROU,2018 Winter,Europe,Winter,Medium,Biathlon,2018,10,1,2,30.0,7,19,0,3,2
+South Africa,Medium,Non-Host,PyeongChang,South Korea,0,RSA,2018 Winter,Africa,Winter,Low,Snowboard,2018,18,1,1,11.111,4,60,0,2,1
+Argentina,Medium,Non-Host,PyeongChang,South Korea,0,ARG,2018 Winter,South America,Winter,Low,Luge,2018,10,1,0,10.0,1,46,0,1,1
+Mexico,Medium,Non-Host,PyeongChang,South Korea,0,MEX,2018 Winter,North America,Winter,Low,Snowboard,2018,1,1,1,300.0,6,130,1,3,1
+Turkey,Medium,Non-Host,PyeongChang,South Korea,0,TUR,2018 Winter,Europe/Asia,Winter,Medium,Biathlon Mixed Relay,2018,9,1,0,22.222,3,85,1,2,2
+Iran,Medium,Non-Host,PyeongChang,South Korea,0,IRI,2018 Winter,Asia,Winter,Medium,Skeleton,2018,34,0,2,8.824,8,86,1,3,2
+Belarus,Medium,Non-Host,PyeongChang,South Korea,0,BLR,2018 Winter,Europe,Winter,Medium,Alpine Skiing,2018,25,1,1,12.0,6,10,1,3,2
+Croatia,Medium,Non-Host,PyeongChang,South Korea,0,CRO,2018 Winter,Europe,Winter,Medium,Speed Skating,2018,1,1,1,200.0,4,4,0,2,2
+Greece,Medium,Non-Host,PyeongChang,South Korea,0,GRE,2018 Winter,Europe,Winter,Low,Ice Hockey,2018,17,1,1,11.765,4,10,0,2,1
+Bahrain,High,Non-Host,PyeongChang,South Korea,0,BRN,2018 Winter,Asia,Winter,Medium,Alpine Skiing,2018,24,1,0,8.333,3,2,1,2,2
+Uganda,Low,Non-Host,PyeongChang,South Korea,0,UGA,2018 Winter,Africa,Winter,Low,Nordic Combined,2018,20,2,2,25.0,10,47,1,5,1
+Georgia,Low,Non-Host,PyeongChang,South Korea,0,GEO,2018 Winter,Europe/Asia,Winter,Medium,Biathlon,2018,32,0,1,9.375,7,4,2,3,2
+Azerbaijan,Medium,Non-Host,PyeongChang,South Korea,0,AZE,2018 Winter,Europe/Asia,Winter,Medium,Ice Hockey,2018,2,0,0,50.0,2,10,1,1,2
+Slovakia,Medium,Non-Host,PyeongChang,South Korea,0,SVK,2018 Winter,Europe,Winter,Medium,Curling,2018,14,1,2,21.429,7,5,0,3,2
+Finland,High,Non-Host,PyeongChang,South Korea,0,FIN,2018 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,2018,1,1,0,200.0,3,6,1,2,2
+Slovenia,High,Non-Host,PyeongChang,South Korea,0,SLO,2018 Winter,Europe,Winter,Medium,Ski Jumping,2018,27,0,0,3.704,2,2,1,1,2
+Latvia,Medium,Non-Host,PyeongChang,South Korea,0,LAT,2018 Winter,Europe,Winter,Medium,Bobsled,2018,11,1,0,27.273,5,2,2,3,2
+Estonia,High,Non-Host,PyeongChang,South Korea,0,EST,2018 Winter,Europe,Winter,Medium,Snowboard,2018,6,1,1,33.333,4,1,0,2,2
+Lithuania,Medium,Non-Host,PyeongChang,South Korea,0,LTU,2018 Winter,Europe,Winter,Medium,Biathlon Mixed Relay,2018,35,5,1,22.857,12,3,2,8,2
+Uzbekistan,Low,Non-Host,PyeongChang,South Korea,0,UZB,2018 Winter,Asia,Winter,Medium,Cross-Country Skiing,2018,33,3,1,12.121,6,35,0,4,2
+Armenia,Low,Non-Host,PyeongChang,South Korea,0,ARM,2018 Winter,Europe/Asia,Winter,Medium,Freestyle Skiing,2018,11,0,1,9.091,3,3,0,1,2
+Mongolia,Low,Non-Host,PyeongChang,South Korea,0,MGL,2018 Winter,Asia,Winter,Medium,Short Track,2018,34,1,2,8.824,7,3,0,3,2
+United States,High,Non-Host,Tokyo,Japan,0,USA,2020 Summer,North America,Summer,High,Basketball,2020,287,20,12,14.286,74,335,9,41,3
+China,High,Non-Host,Tokyo,Japan,0,CHN,2020 Summer,Asia,Summer,High,Athletics,2020,286,10,14,11.888,72,1411,10,34,3
+Russia,Medium,Non-Host,Tokyo,Japan,0,RUS,2020 Summer,Europe,Summer,High,Taekwondo,2020,201,2,6,9.453,42,144,11,19,3
+Great Britain,High,Non-Host,Tokyo,Japan,0,GBR,2020 Summer,Europe,Summer,High,Triathlon,2020,199,7,9,13.065,54,67,10,26,3
+Germany,High,Non-Host,Tokyo,Japan,0,GER,2020 Summer,Europe,Summer,High,Canoe/Kayak,2020,154,6,9,13.636,45,84,6,21,3
+Australia,High,Non-Host,Tokyo,Japan,0,AUS,2020 Summer,Oceania,Summer,High,Fencing,2020,112,6,10,17.857,44,26,4,20,3
+France,High,Non-Host,Tokyo,Japan,0,FRA,2020 Summer,Europe,Summer,High,Canoe/Kayak,2020,105,8,2,13.333,22,68,4,14,3
+Japan,High,Host Nation,Tokyo,Japan,1,JPN,2020 Summer,Asia,Summer,High,Breakdancing,2020,203,9,7,13.3,52,125,11,27,3
+South Korea,High,Non-Host,Tokyo,Japan,0,KOR,2020 Summer,Asia,Summer,Medium,Hockey (Field),2020,63,5,7,20.635,28,52,1,13,2
+Italy,High,Non-Host,Tokyo,Japan,0,ITA,2020 Summer,Europe,Summer,Medium,Athletics,2020,100,5,5,12.0,24,59,2,12,2
+Netherlands,High,Non-Host,Tokyo,Japan,0,NED,2020 Summer,Europe,Summer,Medium,Sailing,2020,84,2,5,11.905,23,18,3,10,2
+Hungary,Medium,Non-Host,Tokyo,Japan,0,HUN,2020 Summer,Europe,Summer,High,Athletics,2020,62,2,3,12.903,17,10,3,8,3
+Norway,High,Non-Host,Tokyo,Japan,0,NOR,2020 Summer,Europe,Summer,High,Triathlon,2020,39,4,2,28.205,20,5,5,11,3
+Canada,High,Non-Host,Tokyo,Japan,0,CAN,2020 Summer,North America,Summer,Medium,Rugby Sevens,2020,62,0,1,4.839,7,38,2,3,2
+New Zealand,High,Non-Host,Tokyo,Japan,0,NZL,2020 Summer,Oceania,Summer,Medium,Gymnastics,2020,1,2,0,300.0,4,5,1,3,2
+Cuba,Low,Non-Host,Tokyo,Japan,0,CUB,2020 Summer,North America,Summer,High,Gymnastics,2020,12,1,0,8.333,1,11,0,1,3
+Kenya,Low,Non-Host,Tokyo,Japan,0,KEN,2020 Summer,Africa,Summer,Medium,Fencing,2020,11,1,0,9.091,1,55,0,1,2
+Ethiopia,Low,Non-Host,Tokyo,Japan,0,ETH,2020 Summer,Africa,Summer,Low,Sailing,2020,38,1,1,5.263,4,120,0,2,1
+Brazil,Medium,Non-Host,Tokyo,Japan,0,BRA,2020 Summer,South America,Summer,Medium,Boxing,2020,20,0,1,10.0,5,215,1,2,2
+Spain,High,Non-Host,Tokyo,Japan,0,ESP,2020 Summer,Europe,Summer,Medium,Triathlon,2020,18,1,0,11.111,3,47,1,2,2
+Ukraine,Medium,Non-Host,Tokyo,Japan,0,UKR,2020 Summer,Europe,Summer,Medium,Badminton,2020,31,3,2,19.355,11,44,1,6,2
+Sweden,High,Non-Host,Tokyo,Japan,0,SWE,2020 Summer,Europe,Summer,Medium,Swimming,2020,11,1,1,27.273,6,10,1,3,2
+Denmark,High,Non-Host,Tokyo,Japan,0,DEN,2020 Summer,Europe,Summer,Medium,Water Polo,2020,27,2,3,18.519,11,6,0,5,2
+Switzerland,High,Non-Host,Tokyo,Japan,0,SUI,2020 Summer,Europe,Summer,Medium,Taekwondo,2020,5,0,1,20.0,3,9,0,1,2
+Austria,High,Non-Host,Tokyo,Japan,0,AUT,2020 Summer,Europe,Summer,Medium,Rugby Sevens,2020,51,0,2,7.843,10,9,2,4,2
+Belgium,High,Non-Host,Tokyo,Japan,0,BEL,2020 Summer,Europe,Summer,Low,Pentathlon,2020,21,1,2,14.286,7,11,0,3,1
+Poland,Medium,Non-Host,Tokyo,Japan,0,POL,2020 Summer,Europe,Summer,Medium,Gymnastics,2020,6,1,2,50.0,7,38,0,3,2
+Czech Republic,Medium,Non-Host,Tokyo,Japan,0,CZE,2020 Summer,Europe,Summer,Medium,Equestrian,2020,2,0,1,50.0,3,11,0,1,2
+Romania,Medium,Non-Host,Tokyo,Japan,0,ROU,2020 Summer,Europe,Summer,Medium,Gymnastics,2020,1,0,0,200.0,4,19,2,2,2
+Jamaica,Low,Non-Host,Tokyo,Japan,0,JAM,2020 Summer,North America,Summer,Medium,Surfing,2020,38,0,0,7.895,6,3,3,3,2
+India,Medium,Non-Host,Tokyo,Japan,0,IND,2020 Summer,Asia,Summer,Low,Taekwondo,2020,23,0,1,4.348,3,1400,0,1,1
+South Africa,Medium,Non-Host,Tokyo,Japan,0,RSA,2020 Summer,Africa,Summer,Low,Taekwondo,2020,10,0,2,30.0,8,60,1,3,1
+Argentina,Medium,Non-Host,Tokyo,Japan,0,ARG,2020 Summer,South America,Summer,Low,Water Polo,2020,1,1,1,200.0,4,46,0,2,1
+Mexico,Medium,Non-Host,Tokyo,Japan,0,MEX,2020 Summer,North America,Summer,Low,Tennis,2020,20,0,1,5.0,3,130,0,1,1
+Turkey,Medium,Non-Host,Tokyo,Japan,0,TUR,2020 Summer,Europe/Asia,Summer,Medium,Surfing,2020,17,1,0,11.765,3,85,1,2,2
+Iran,Medium,Non-Host,Tokyo,Japan,0,IRI,2020 Summer,Asia,Summer,Medium,Diving,2020,6,0,0,16.667,2,86,1,1,2
+Kazakhstan,Medium,Non-Host,Tokyo,Japan,0,KAZ,2020 Summer,Asia,Summer,Medium,Surfing,2020,30,2,1,16.667,9,19,2,5,2
+Belarus,Medium,Non-Host,Tokyo,Japan,0,BLR,2020 Summer,Europe,Summer,Medium,Canoe/Kayak,2020,39,1,3,10.256,10,10,0,4,2
+Croatia,Medium,Non-Host,Tokyo,Japan,0,CRO,2020 Summer,Europe,Summer,Medium,Canoe/Kayak,2020,39,1,0,10.256,7,4,3,4,2
+Greece,Medium,Non-Host,Tokyo,Japan,0,GRE,2020 Summer,Europe,Summer,Low,Basketball,2020,15,0,0,6.667,2,10,1,1,1
+North Korea,Low,Non-Host,Tokyo,Japan,0,PRK,2020 Summer,Asia,Summer,High,Cycling,2020,24,2,0,16.667,6,26,2,4,3
+Bahrain,High,Non-Host,Tokyo,Japan,0,BRN,2020 Summer,Asia,Summer,Medium,Sailing,2020,14,2,0,14.286,2,2,0,2,2
+Morocco,Low,Non-Host,Tokyo,Japan,0,MAR,2020 Summer,Africa,Summer,Low,Badminton,2020,1,1,2,300.0,7,37,0,3,1
+Uganda,Low,Non-Host,Tokyo,Japan,0,UGA,2020 Summer,Africa,Summer,Low,Handball,2020,10,0,0,10.0,2,47,1,1,1
+Georgia,Low,Non-Host,Tokyo,Japan,0,GEO,2020 Summer,Europe/Asia,Summer,Medium,Surfing,2020,14,2,0,14.286,2,4,0,2,2
+Azerbaijan,Medium,Non-Host,Tokyo,Japan,0,AZE,2020 Summer,Europe/Asia,Summer,Medium,Surfing,2020,25,0,0,4.0,2,10,1,1,2
+Slovakia,Medium,Non-Host,Tokyo,Japan,0,SVK,2020 Summer,Europe,Summer,Medium,Archery,2020,30,0,1,6.667,5,5,1,2,2
+Finland,High,Non-Host,Tokyo,Japan,0,FIN,2020 Summer,Europe,Summer,Medium,Surfing,2020,16,0,0,6.25,2,6,1,1,2
+Slovenia,High,Non-Host,Tokyo,Japan,0,SLO,2020 Summer,Europe,Summer,Medium,Skateboarding,2020,22,2,0,9.091,2,2,0,2,2
+Latvia,Medium,Non-Host,Tokyo,Japan,0,LAT,2020 Summer,Europe,Summer,Medium,Judo,2020,18,2,0,11.111,2,2,0,2,2
+Estonia,High,Non-Host,Tokyo,Japan,0,EST,2020 Summer,Europe,Summer,Medium,Volleyball,2020,25,0,1,12.0,7,1,2,3,2
+Lithuania,Medium,Non-Host,Tokyo,Japan,0,LTU,2020 Summer,Europe,Summer,Medium,Cycling,2020,34,1,0,5.882,3,3,1,2,2
+Uzbekistan,Low,Non-Host,Tokyo,Japan,0,UZB,2020 Summer,Asia,Summer,Medium,Athletics,2020,23,2,0,8.696,2,35,0,2,2
+Thailand,Medium,Non-Host,Tokyo,Japan,0,THA,2020 Summer,Asia,Summer,Low,Sailing,2020,54,1,0,1.852,1,70,0,1,1
+Dominican Republic,Low,Non-Host,Tokyo,Japan,0,DOM,2020 Summer,North America,Summer,Low,Skateboarding,2020,25,0,2,8.0,6,11,0,2,1
+Colombia,Medium,Non-Host,Tokyo,Japan,0,COL,2020 Summer,South America,Summer,Low,Football/Soccer,2020,19,0,1,5.263,3,51,0,1,1
+Armenia,Low,Non-Host,Tokyo,Japan,0,ARM,2020 Summer,Europe/Asia,Summer,Medium,Rowing,2020,2,1,0,150.0,5,3,2,3,2
+Mongolia,Low,Non-Host,Tokyo,Japan,0,MGL,2020 Summer,Asia,Summer,Medium,Tennis,2020,21,0,1,4.762,3,3,0,1,2
+Indonesia,Medium,Non-Host,Tokyo,Japan,0,INA,2020 Summer,Asia,Summer,Low,Pentathlon,2020,12,0,1,8.333,3,275,0,1,1
+Philippines,Low,Non-Host,Tokyo,Japan,0,PHI,2020 Summer,Asia,Summer,Low,Judo,2020,18,2,0,11.111,2,115,0,2,1
+United States,High,Non-Host,Beijing,China,0,USA,2022 Winter,North America,Winter,High,Curling,2022,281,10,18,15.658,96,335,16,44,3
+China,High,Host Nation,Beijing,China,1,CHN,2022 Winter,Asia,Winter,High,Skeleton,2022,396,16,19,13.889,113,1411,20,55,3
+Russia,Medium,Non-Host,Beijing,China,0,RUS,2022 Winter,Europe,Winter,High,Ski Jumping,2022,122,6,3,9.836,21,144,3,12,3
+Great Britain,High,Non-Host,Beijing,China,0,GBR,2022 Winter,Europe,Winter,High,Skeleton,2022,191,4,7,9.948,41,67,8,19,3
+Germany,High,Non-Host,Beijing,China,0,GER,2022 Winter,Europe,Winter,High,Speed Skating,2022,168,3,3,4.167,14,84,1,7,3
+Australia,High,Non-Host,Beijing,China,0,AUS,2022 Winter,Oceania,Winter,High,Bobsled,2022,108,9,4,16.667,31,26,5,18,3
+France,High,Non-Host,Beijing,China,0,FRA,2022 Winter,Europe,Winter,High,Ice Hockey,2022,98,5,1,11.224,18,68,5,11,3
+Japan,High,Non-Host,Beijing,China,0,JPN,2022 Winter,Asia,Winter,High,Ski Jumping,2022,154,7,9,14.935,48,125,7,23,3
+South Korea,High,Non-Host,Beijing,China,0,KOR,2022 Winter,Asia,Winter,Medium,Snowboard,2022,91,7,6,17.582,31,52,3,16,2
+Italy,High,Non-Host,Beijing,China,0,ITA,2022 Winter,Europe,Winter,Medium,Skeleton,2022,89,1,4,10.112,21,59,4,9,2
+Netherlands,High,Non-Host,Beijing,China,0,NED,2022 Winter,Europe,Winter,Medium,Luge,2022,81,3,7,17.284,32,18,4,14,2
+Hungary,Medium,Non-Host,Beijing,China,0,HUN,2022 Winter,Europe,Winter,High,Ski Jumping,2022,50,2,3,16.0,17,10,3,8,3
+Norway,High,Non-Host,Beijing,China,0,NOR,2022 Winter,Europe,Winter,High,Ice Hockey,2022,79,6,3,18.987,27,5,6,15,3
+Canada,High,Non-Host,Beijing,China,0,CAN,2022 Winter,North America,Winter,Medium,Alpine Skiing,2022,89,2,7,13.483,29,38,3,12,2
+New Zealand,High,Non-Host,Beijing,China,0,NZL,2022 Winter,Oceania,Winter,Medium,Biathlon,2022,8,0,2,37.5,8,5,1,3,2
+Spain,High,Non-Host,Beijing,China,0,ESP,2022 Winter,Europe,Winter,Medium,Ice Hockey,2022,5,2,0,40.0,2,47,0,2,2
+Ukraine,Medium,Non-Host,Beijing,China,0,UKR,2022 Winter,Europe,Winter,Medium,Snowboard,2022,2,1,0,50.0,1,44,0,1,2
+Denmark,High,Non-Host,Beijing,China,0,DEN,2022 Winter,Europe,Winter,Medium,Skeleton,2022,40,2,1,15.0,11,6,3,6,2
+Switzerland,High,Non-Host,Beijing,China,0,SUI,2022 Winter,Europe,Winter,Medium,Ice Hockey,2022,23,0,1,17.391,9,9,3,4,2
+Austria,High,Non-Host,Beijing,China,0,AUT,2022 Winter,Europe,Winter,Medium,Speed Skating,2022,3,3,0,100.0,3,9,0,3,2
+Belgium,High,Non-Host,Beijing,China,0,BEL,2022 Winter,Europe,Winter,Low,Snowboard,2022,22,0,1,9.091,5,11,1,2,1
+Poland,Medium,Non-Host,Beijing,China,0,POL,2022 Winter,Europe,Winter,Medium,Ice Hockey,2022,43,1,0,2.326,1,38,0,1,2
+Czech Republic,Medium,Non-Host,Beijing,China,0,CZE,2022 Winter,Europe,Winter,Medium,Freestyle Skiing,2022,16,2,0,12.5,2,11,0,2,2
+South Africa,Medium,Non-Host,Beijing,China,0,RSA,2022 Winter,Africa,Winter,Low,Curling,2022,1,0,0,200.0,4,60,2,2,1
+Argentina,Medium,Non-Host,Beijing,China,0,ARG,2022 Winter,South America,Winter,Low,Cross-Country Skiing,2022,5,0,2,40.0,6,46,0,2,1
+Mexico,Medium,Non-Host,Beijing,China,0,MEX,2022 Winter,North America,Winter,Low,Skeleton,2022,32,0,1,3.125,3,130,0,1,1
+Turkey,Medium,Non-Host,Beijing,China,0,TUR,2022 Winter,Europe/Asia,Winter,Medium,Snowboard,2022,12,0,1,8.333,3,85,0,1,2
+Iran,Medium,Non-Host,Beijing,China,0,IRI,2022 Winter,Asia,Winter,Medium,Speed Skating,2022,8,1,0,50.0,7,86,3,4,2
+Kazakhstan,Medium,Non-Host,Beijing,China,0,KAZ,2022 Winter,Asia,Winter,Medium,Cross-Country Skiing,2022,35,1,1,8.571,6,19,1,3,2
+Belarus,Medium,Non-Host,Beijing,China,0,BLR,2022 Winter,Europe,Winter,Medium,Skeleton,2022,11,2,1,36.364,7,10,1,4,2
+Greece,Medium,Non-Host,Beijing,China,0,GRE,2022 Winter,Europe,Winter,Low,Nordic Combined,2022,14,1,1,14.286,4,10,0,2,1
+Bahrain,High,Non-Host,Beijing,China,0,BRN,2022 Winter,Asia,Winter,Medium,Biathlon,2022,1,0,0,100.0,2,2,1,1,2
+Morocco,Low,Non-Host,Beijing,China,0,MAR,2022 Winter,Africa,Winter,Low,Figure Skating,2022,12,1,1,25.0,6,37,1,3,1
+Uganda,Low,Non-Host,Beijing,China,0,UGA,2022 Winter,Africa,Winter,Low,Biathlon Mixed Relay,2022,33,1,0,3.03,1,47,0,1,1
+Azerbaijan,Medium,Non-Host,Beijing,China,0,AZE,2022 Winter,Europe/Asia,Winter,Medium,Ice Hockey,2022,6,1,0,16.667,1,10,0,1,2
+Slovakia,Medium,Non-Host,Beijing,China,0,SVK,2022 Winter,Europe,Winter,Medium,Bobsled,2022,24,0,1,8.333,5,5,1,2,2
+Finland,High,Non-Host,Beijing,China,0,FIN,2022 Winter,Europe,Winter,Medium,Nordic Combined,2022,34,0,0,5.882,4,6,2,2,2
+Latvia,Medium,Non-Host,Beijing,China,0,LAT,2022 Winter,Europe,Winter,Medium,Snowboard,2022,15,0,1,13.333,5,2,1,2,2
+Estonia,High,Non-Host,Beijing,China,0,EST,2022 Winter,Europe,Winter,Medium,Curling,2022,18,0,0,5.556,2,1,1,1,2
+Lithuania,Medium,Non-Host,Beijing,China,0,LTU,2022 Winter,Europe,Winter,Medium,Curling,2022,12,2,0,16.667,2,3,0,2,2
+Uzbekistan,Low,Non-Host,Beijing,China,0,UZB,2022 Winter,Asia,Winter,Medium,Skeleton,2022,32,0,0,3.125,2,35,1,1,2
+Armenia,Low,Non-Host,Beijing,China,0,ARM,2022 Winter,Europe/Asia,Winter,Medium,Cross-Country Skiing,2022,19,0,0,5.263,2,3,1,1,2
+Mongolia,Low,Non-Host,Beijing,China,0,MGL,2022 Winter,Asia,Winter,Medium,Ski Jumping,2022,10,2,0,30.0,4,3,1,3,2
+United States,High,Non-Host,Paris,France,0,USA,2024 Summer,North America,Summer,High,Weightlifting,2024,296,11,13,11.486,70,335,10,34,3
+China,High,Non-Host,Paris,France,0,CHN,2024 Summer,Asia,Summer,High,Weightlifting,2024,292,10,14,12.671,78,1411,13,37,3
+Russia,Medium,Non-Host,Paris,France,0,RUS,2024 Summer,Europe,Summer,High,Equestrian,2024,99,5,5,16.162,32,144,6,16,3
+Great Britain,High,Non-Host,Paris,France,0,GBR,2024 Summer,Europe,Summer,High,Rowing,2024,205,9,8,11.707,47,67,7,24,3
+Germany,High,Non-Host,Paris,France,0,GER,2024 Summer,Europe,Summer,High,Boxing,2024,136,7,7,16.176,44,84,8,22,3
+Australia,High,Non-Host,Paris,France,0,AUS,2024 Summer,Oceania,Summer,High,Golf,2024,117,4,6,11.111,28,26,3,13,3
+France,High,Host Nation,Paris,France,1,FRA,2024 Summer,Europe,Summer,High,Athletics,2024,127,3,6,11.811,33,68,6,15,3
+Japan,High,Non-Host,Paris,France,0,JPN,2024 Summer,Asia,Summer,High,Volleyball,2024,172,9,7,13.953,46,125,8,24,3
+South Korea,High,Non-Host,Paris,France,0,KOR,2024 Summer,Asia,Summer,Medium,Table Tennis,2024,74,3,2,14.865,21,52,6,11,2
+Italy,High,Non-Host,Paris,France,0,ITA,2024 Summer,Europe,Summer,Medium,Weightlifting,2024,86,3,3,11.628,20,59,4,10,2
+Netherlands,High,Non-Host,Paris,France,0,NED,2024 Summer,Europe,Summer,Medium,Sport Climbing,2024,72,3,3,9.722,14,18,1,7,2
+Hungary,Medium,Non-Host,Paris,France,0,HUN,2024 Summer,Europe,Summer,High,Handball,2024,76,1,3,6.579,12,10,1,5,3
+Norway,High,Non-Host,Paris,France,0,NOR,2024 Summer,Europe,Summer,High,Gymnastics,2024,56,0,0,1.786,2,5,1,1,3
+Canada,High,Non-Host,Paris,France,0,CAN,2024 Summer,North America,Summer,Medium,Badminton,2024,50,2,4,20.0,22,38,4,10,2
+New Zealand,High,Non-Host,Paris,France,0,NZL,2024 Summer,Oceania,Summer,Medium,Sailing,2024,9,0,2,22.222,6,5,0,2,2
+Cuba,Low,Non-Host,Paris,France,0,CUB,2024 Summer,North America,Summer,High,Table Tennis,2024,19,2,0,10.526,2,11,0,2,3
+Kenya,Low,Non-Host,Paris,France,0,KEN,2024 Summer,Africa,Summer,Medium,Equestrian,2024,64,0,0,1.562,2,55,1,1,2
+Ethiopia,Low,Non-Host,Paris,France,0,ETH,2024 Summer,Africa,Summer,Low,Table Tennis,2024,19,0,0,5.263,2,120,1,1,1
+Brazil,Medium,Non-Host,Paris,France,0,BRA,2024 Summer,South America,Summer,Medium,Badminton,2024,11,0,0,9.091,2,215,1,1,2
+Spain,High,Non-Host,Paris,France,0,ESP,2024 Summer,Europe,Summer,Medium,Weightlifting,2024,15,0,2,13.333,6,47,0,2,2
+Ukraine,Medium,Non-Host,Paris,France,0,UKR,2024 Summer,Europe,Summer,Medium,Basketball,2024,1,1,2,300.0,7,44,0,3,2
+Sweden,High,Non-Host,Paris,France,0,SWE,2024 Summer,Europe,Summer,Medium,Canoe/Kayak,2024,44,1,0,6.818,5,10,2,3,2
+Denmark,High,Non-Host,Paris,France,0,DEN,2024 Summer,Europe,Summer,Medium,Badminton,2024,29,0,0,3.448,2,6,1,1,2
+Switzerland,High,Non-Host,Paris,France,0,SUI,2024 Summer,Europe,Summer,Medium,Volleyball,2024,20,1,1,10.0,4,9,0,2,2
+Austria,High,Non-Host,Paris,France,0,AUT,2024 Summer,Europe,Summer,Medium,Athletics,2024,32,2,2,18.75,12,9,2,6,2
+Belgium,High,Non-Host,Paris,France,0,BEL,2024 Summer,Europe,Summer,Low,Breakdancing,2024,4,0,1,25.0,3,11,0,1,1
+Poland,Medium,Non-Host,Paris,France,0,POL,2024 Summer,Europe,Summer,Medium,Skateboarding,2024,2,3,0,200.0,5,38,1,4,2
+Czech Republic,Medium,Non-Host,Paris,France,0,CZE,2024 Summer,Europe,Summer,Medium,Shooting,2024,14,2,0,28.571,6,11,2,4,2
+Romania,Medium,Non-Host,Paris,France,0,ROU,2024 Summer,Europe,Summer,Medium,Handball,2024,37,0,1,2.703,3,19,0,1,2
+India,Medium,Non-Host,Paris,France,0,IND,2024 Summer,Asia,Summer,Low,Judo,2024,31,2,0,6.452,2,1400,0,2,1
+Argentina,Medium,Non-Host,Paris,France,0,ARG,2024 Summer,South America,Summer,Low,Table Tennis,2024,44,0,1,2.273,3,46,0,1,1
+Mexico,Medium,Non-Host,Paris,France,0,MEX,2024 Summer,North America,Summer,Low,Breakdancing,2024,16,2,0,25.0,6,130,2,4,1
+Turkey,Medium,Non-Host,Paris,France,0,TUR,2024 Summer,Europe/Asia,Summer,Medium,Pentathlon,2024,13,1,0,15.385,3,85,1,2,2
+Kazakhstan,Medium,Non-Host,Paris,France,0,KAZ,2024 Summer,Asia,Summer,Medium,Judo,2024,1,0,0,100.0,2,19,1,1,2
+Belarus,Medium,Non-Host,Paris,France,0,BLR,2024 Summer,Europe,Summer,Medium,Wrestling,2024,2,1,1,100.0,4,10,0,2,2
+Croatia,Medium,Non-Host,Paris,France,0,CRO,2024 Summer,Europe,Summer,Medium,Table Tennis,2024,38,1,0,5.263,3,4,1,2,2
+Greece,Medium,Non-Host,Paris,France,0,GRE,2024 Summer,Europe,Summer,Low,Judo,2024,3,1,0,33.333,1,10,0,1,1
+Bahrain,High,Non-Host,Paris,France,0,BRN,2024 Summer,Asia,Summer,Medium,Skateboarding,2024,22,1,0,9.091,3,2,1,2,2
+Morocco,Low,Non-Host,Paris,France,0,MAR,2024 Summer,Africa,Summer,Low,Equestrian,2024,29,0,1,10.345,7,37,2,3,1
+Uganda,Low,Non-Host,Paris,France,0,UGA,2024 Summer,Africa,Summer,Low,Swimming,2024,21,1,0,9.524,3,47,1,2,1
+Georgia,Low,Non-Host,Paris,France,0,GEO,2024 Summer,Europe/Asia,Summer,Medium,Weightlifting,2024,50,1,2,6.0,7,4,0,3,2
+Azerbaijan,Medium,Non-Host,Paris,France,0,AZE,2024 Summer,Europe/Asia,Summer,Medium,Table Tennis,2024,33,2,1,9.091,5,10,0,3,2
+Slovakia,Medium,Non-Host,Paris,France,0,SVK,2024 Summer,Europe,Summer,Medium,Breakdancing,2024,37,1,0,2.703,1,5,0,1,2
+Slovenia,High,Non-Host,Paris,France,0,SLO,2024 Summer,Europe,Summer,Medium,Cycling,2024,32,1,0,3.125,1,2,0,1,2
+Latvia,Medium,Non-Host,Paris,France,0,LAT,2024 Summer,Europe,Summer,Medium,Weightlifting,2024,8,3,1,50.0,6,2,0,4,2
+Estonia,High,Non-Host,Paris,France,0,EST,2024 Summer,Europe,Summer,Medium,Archery,2024,18,0,1,5.556,3,1,0,1,2
+Uzbekistan,Low,Non-Host,Paris,France,0,UZB,2024 Summer,Asia,Summer,Medium,Gymnastics,2024,26,1,2,11.538,7,35,0,3,2
+Thailand,Medium,Non-Host,Paris,France,0,THA,2024 Summer,Asia,Summer,Low,Sailing,2024,34,1,0,5.882,3,70,1,2,1
+Colombia,Medium,Non-Host,Paris,France,0,COL,2024 Summer,South America,Summer,Low,Shooting,2024,35,4,1,20.0,11,51,2,7,1
+Mongolia,Low,Non-Host,Paris,France,0,MGL,2024 Summer,Asia,Summer,Medium,Cycling,2024,25,1,0,8.0,3,3,1,2,2
+Indonesia,Medium,Non-Host,Paris,France,0,INA,2024 Summer,Asia,Summer,Low,Surfing,2024,15,0,1,6.667,3,275,0,1,1
+Philippines,Low,Non-Host,Paris,France,0,PHI,2024 Summer,Asia,Summer,Low,Hockey (Field),2024,1,2,0,600.0,10,115,4,6,1
+United States,High,Non-Host,Milan-Cortina,Italy,0,USA,2026 Winter,North America,Winter,High,Curling,2026,274,14,15,13.869,77,335,9,38,3
+China,High,Non-Host,Milan-Cortina,Italy,0,CHN,2026 Winter,Asia,Winter,High,Biathlon,2026,305,11,12,11.148,69,1411,11,34,3
+Russia,Medium,Non-Host,Milan-Cortina,Italy,0,RUS,2026 Winter,Europe,Winter,High,Alpine Skiing,2026,117,6,5,14.53,33,144,6,17,3
+Great Britain,High,Non-Host,Milan-Cortina,Italy,0,GBR,2026 Winter,Europe,Winter,High,Curling,2026,193,9,6,12.435,45,67,9,24,3
+Germany,High,Non-Host,Milan-Cortina,Italy,0,GER,2026 Winter,Europe,Winter,High,Freestyle Skiing,2026,141,6,4,12.057,32,84,7,17,3
+Australia,High,Non-Host,Milan-Cortina,Italy,0,AUS,2026 Winter,Oceania,Winter,High,Cross-Country Skiing,2026,134,6,3,12.687,31,26,8,17,3
+France,High,Non-Host,Milan-Cortina,Italy,0,FRA,2026 Winter,Europe,Winter,High,Bobsled,2026,98,6,2,15.306,26,68,7,15,3
+Japan,High,Non-Host,Milan-Cortina,Italy,0,JPN,2026 Winter,Asia,Winter,High,Nordic Combined,2026,164,12,3,11.585,29,125,4,19,3
+South Korea,High,Non-Host,Milan-Cortina,Italy,0,KOR,2026 Winter,Asia,Winter,Medium,Ice Hockey,2026,77,3,4,14.286,23,52,4,11,2
+Italy,High,Host Nation,Milan-Cortina,Italy,1,ITA,2026 Winter,Europe,Winter,Medium,Ski Jumping,2026,106,6,3,13.208,25,59,5,14,2
+Netherlands,High,Non-Host,Milan-Cortina,Italy,0,NED,2026 Winter,Europe,Winter,Medium,Figure Skating,2026,67,3,3,17.91,24,18,6,12,2
+Hungary,Medium,Non-Host,Milan-Cortina,Italy,0,HUN,2026 Winter,Europe,Winter,High,Luge,2026,51,7,7,35.294,36,10,4,18,3
+Norway,High,Non-Host,Milan-Cortina,Italy,0,NOR,2026 Winter,Europe,Winter,High,Biathlon,2026,67,6,2,14.925,16,5,2,10,3
+Canada,High,Non-Host,Milan-Cortina,Italy,0,CAN,2026 Winter,North America,Winter,Medium,Cross-Country Skiing,2026,88,3,5,11.364,22,38,2,10,2
+New Zealand,High,Non-Host,Milan-Cortina,Italy,0,NZL,2026 Winter,Oceania,Winter,Medium,Biathlon,2026,51,1,1,3.922,4,5,0,2,2
+Spain,High,Non-Host,Milan-Cortina,Italy,0,ESP,2026 Winter,Europe,Winter,Medium,Freestyle Skiing,2026,6,1,1,50.0,6,47,1,3,2
+Ukraine,Medium,Non-Host,Milan-Cortina,Italy,0,UKR,2026 Winter,Europe,Winter,Medium,Figure Skating,2026,12,1,1,25.0,6,44,1,3,2
+Sweden,High,Non-Host,Milan-Cortina,Italy,0,SWE,2026 Winter,Europe,Winter,Medium,Speed Skating,2026,15,0,0,13.333,4,10,2,2,2
+Denmark,High,Non-Host,Milan-Cortina,Italy,0,DEN,2026 Winter,Europe,Winter,Medium,Speed Skating,2026,18,3,0,27.778,7,6,2,5,2
+Switzerland,High,Non-Host,Milan-Cortina,Italy,0,SUI,2026 Winter,Europe,Winter,Medium,Freestyle Skiing,2026,1,0,0,100.0,2,9,1,1,2
+Belgium,High,Non-Host,Milan-Cortina,Italy,0,BEL,2026 Winter,Europe,Winter,Low,Luge,2026,8,0,0,12.5,2,11,1,1,1
+Poland,Medium,Non-Host,Milan-Cortina,Italy,0,POL,2026 Winter,Europe,Winter,Medium,Bobsled,2026,19,0,0,5.263,2,38,1,1,2
+Romania,Medium,Non-Host,Milan-Cortina,Italy,0,ROU,2026 Winter,Europe,Winter,Medium,Short Track,2026,18,2,1,16.667,5,19,0,3,2
+South Africa,Medium,Non-Host,Milan-Cortina,Italy,0,RSA,2026 Winter,Africa,Winter,Low,Curling,2026,33,0,2,6.061,6,60,0,2,1
+Argentina,Medium,Non-Host,Milan-Cortina,Italy,0,ARG,2026 Winter,South America,Winter,Low,Figure Skating,2026,6,0,1,16.667,3,46,0,1,1
+Mexico,Medium,Non-Host,Milan-Cortina,Italy,0,MEX,2026 Winter,North America,Winter,Low,Figure Skating,2026,19,0,1,15.789,7,130,2,3,1
+Turkey,Medium,Non-Host,Milan-Cortina,Italy,0,TUR,2026 Winter,Europe/Asia,Winter,Medium,Bobsled,2026,45,0,0,2.222,2,85,1,1,2
+Iran,Medium,Non-Host,Milan-Cortina,Italy,0,IRI,2026 Winter,Asia,Winter,Medium,Ice Hockey,2026,8,1,2,37.5,7,86,0,3,2
+Kazakhstan,Medium,Non-Host,Milan-Cortina,Italy,0,KAZ,2026 Winter,Asia,Winter,Medium,Ice Hockey,2026,47,3,0,8.511,5,19,1,4,2
+Belarus,Medium,Non-Host,Milan-Cortina,Italy,0,BLR,2026 Winter,Europe,Winter,Medium,Snowboard,2026,40,0,1,12.5,11,10,4,5,2
+Croatia,Medium,Non-Host,Milan-Cortina,Italy,0,CRO,2026 Winter,Europe,Winter,Medium,Ski Jumping,2026,27,2,0,7.407,2,4,0,2,2
+Greece,Medium,Non-Host,Milan-Cortina,Italy,0,GRE,2026 Winter,Europe,Winter,Low,Short Track,2026,51,2,0,5.882,4,10,1,3,1
+North Korea,Low,Non-Host,Milan-Cortina,Italy,0,PRK,2026 Winter,Asia,Winter,High,Cross-Country Skiing,2026,39,2,1,12.821,9,26,2,5,3
+Bahrain,High,Non-Host,Milan-Cortina,Italy,0,BRN,2026 Winter,Asia,Winter,Medium,Short Track,2026,1,1,0,200.0,3,2,1,2,2
+Morocco,Low,Non-Host,Milan-Cortina,Italy,0,MAR,2026 Winter,Africa,Winter,Low,Biathlon,2026,36,1,1,11.111,8,37,2,4,1
+Uganda,Low,Non-Host,Milan-Cortina,Italy,0,UGA,2026 Winter,Africa,Winter,Low,Biathlon Mixed Relay,2026,37,0,0,5.405,4,47,2,2,1
+Georgia,Low,Non-Host,Milan-Cortina,Italy,0,GEO,2026 Winter,Europe/Asia,Winter,Medium,Cross-Country Skiing,2026,21,0,1,4.762,3,4,0,1,2
+Azerbaijan,Medium,Non-Host,Milan-Cortina,Italy,0,AZE,2026 Winter,Europe/Asia,Winter,Medium,Ski Jumping,2026,19,0,0,5.263,2,10,1,1,2
+Slovakia,Medium,Non-Host,Milan-Cortina,Italy,0,SVK,2026 Winter,Europe,Winter,Medium,Biathlon,2026,10,0,0,10.0,2,5,1,1,2
+Finland,High,Non-Host,Milan-Cortina,Italy,0,FIN,2026 Winter,Europe,Winter,Medium,Ice Hockey,2026,41,1,1,4.878,4,6,0,2,2
+Slovenia,High,Non-Host,Milan-Cortina,Italy,0,SLO,2026 Winter,Europe,Winter,Medium,Figure Skating,2026,9,2,0,33.333,4,2,1,3,2
+Latvia,Medium,Non-Host,Milan-Cortina,Italy,0,LAT,2026 Winter,Europe,Winter,Medium,Short Track,2026,25,1,1,12.0,6,2,1,3,2
+Estonia,High,Non-Host,Milan-Cortina,Italy,0,EST,2026 Winter,Europe,Winter,Medium,Bobsled,2026,7,0,1,14.286,3,1,0,1,2
+Lithuania,Medium,Non-Host,Milan-Cortina,Italy,0,LTU,2026 Winter,Europe,Winter,Medium,Curling,2026,19,1,1,10.526,4,3,0,2,2
+Uzbekistan,Low,Non-Host,Milan-Cortina,Italy,0,UZB,2026 Winter,Asia,Winter,Medium,Snowboard,2026,45,1,0,2.222,1,35,0,1,2
+Armenia,Low,Non-Host,Milan-Cortina,Italy,0,ARM,2026 Winter,Europe/Asia,Winter,Medium,Ski Jumping,2026,2,1,1,100.0,4,3,0,2,2
+Mongolia,Low,Non-Host,Milan-Cortina,Italy,0,MGL,2026 Winter,Asia,Winter,Medium,Bobsled,2026,31,1,2,9.677,7,3,0,3,2
