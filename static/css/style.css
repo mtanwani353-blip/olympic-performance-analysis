@@ -4,18 +4,25 @@ body {
   color: #212529;
 }
 
+/* Allow main container to expand for wide dashboards */
+.container {
+  max-width: 95% !important;
+}
+
 .viz-container {
   background: #ffffff;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
   padding: 10px;
   width: 100%;
-  min-height: 1020px;
-  overflow-x: auto; /* Adds horizontal scroll bar if dashboard width exceeds screen size */
+  height: 1150px; /* Gives padding above 1100px height */
+  overflow-x: auto; /* Adds horizontal scroll bar if screen is narrower than 1500px */
   overflow-y: hidden;
 }
 
-iframe {
+/* Force iframe to maintain fixed dashboard dimensions */
+.viz-container iframe {
   width: 100% !important;
-  min-height: 1000px !important;
+  min-width: 1500px !important;
+  height: 1100px !important;
 }
