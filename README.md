@@ -15,5 +15,5 @@ Tableau dashboards analysing medal achievements, athlete participation, regional
 - Column names were cleaned (e.g. `Country (Medal Results.Csv)` → `Country`).
 - `Investment Score` was added to `medal_results` (Low = 1, Medium = 2, High = 3).
 
-## Tableau Public link
-_Add your published link here._
+## Deployed Website link
+https://olympic-performance-analysis-1.onrender.com/
