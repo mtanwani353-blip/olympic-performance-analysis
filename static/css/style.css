@@ -4,18 +4,18 @@ body {
   color: #212529;
 }
 
-.navbar {
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
-
-.navbar-brand {
-  letter-spacing: 0.5px;
-}
-
 .viz-container {
   background: #ffffff;
   border-radius: 8px;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  padding: 15px;
-  min-height: 850px;
+  padding: 10px;
+  width: 100%;
+  min-height: 1020px;
+  overflow-x: auto; /* Adds horizontal scroll bar if dashboard width exceeds screen size */
+  overflow-y: hidden;
+}
+
+iframe {
+  width: 100% !important;
+  min-height: 1000px !important;
 }
