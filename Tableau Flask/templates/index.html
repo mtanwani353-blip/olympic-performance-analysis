@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Olympic Performance Analysis Portfolio</title>
+  
+  <!-- Bootstrap 5 CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  
+  <!-- Flask Static CSS link -->
+  <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+  
+  <!-- Tableau JS API Library -->
+  <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+</head>
+<body>
+
+  <!-- Navigation Bar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark sticky-top">
+    <div class="container">
+      <a class="navbar-brand fw-bold" href="#dashboard1">
+        🏅 Olympic Performance Analysis
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="#dashboard1">Global Performance</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#dashboard2">Efficiency & Performance</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="#story">The Olympic Story</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Main Content Container -->
+  <div class="container my-5">
+    
+    <!-- Header Section -->
+    <div class="text-center mb-5">
+      <h1 class="fw-bold">Olympic Performance Analysis</h1>
+      <p class="lead text-muted">A comprehensive data analytics portfolio by Mayank Tanwani</p>
+    </div>
+
+    <!-- SECTION 1: Dashboard 1 -->
+    <section id="dashboard1" class="mb-5">
+      <div class="border-bottom pb-2 mb-4">
+        <h2 class="text-primary fw-bold">1. Global Olympic Performance</h2>
+        <p class="text-muted">General Overview & Country Medals Analysis</p>
+      </div>
+      <div id="tableauViz1" class="viz-container"></div>
+    </section>
+
+    <!-- SECTION 2: Dashboard 2 -->
+    <section id="dashboard2" class="mb-5">
+      <div class="border-bottom pb-2 mb-4">
+        <h2 class="text-primary fw-bold">2. Efficiency & Performance</h2>
+        <p class="text-muted">Athlete Demographics & Sport Efficiency Metrics</p>
+      </div>
+      <div id="tableauViz2" class="viz-container"></div>
+    </section>
+
+    <!-- SECTION 3: Story -->
+    <section id="story" class="mb-5">
+      <div class="border-bottom pb-2 mb-4">
+        <h2 class="text-primary fw-bold">3. The Olympic Story</h2>
+        <p class="text-muted">Guided narrative walkthrough of historical trends and achievements</p>
+      </div>
+      <div id="tableauStoryViz" class="viz-container"></div>
+    </section>
+
+  </div>
+
+  <footer class="text-center py-4 bg-dark text-white mt-5">
+    <p class="mb-0">&copy; Olympic Performance Analysis | Mayank Tanwani</p>
+  </footer>
+
+  <!-- Tableau Embedding Script for ALL 3 Visualizations -->
+  <script>
+    document.addEventListener("DOMContentLoaded", function() {
+      
+      // Options shared across embeds
+      var options = {
+        hideTabs: true,
+        width: "100%",
+        height: "850px"
+      };
+
+      // 1. Load Global Olympic Performance Dashboard
+      var containerDiv1 = document.getElementById("tableauViz1");
+      var url1 = "https://public.tableau.com/views/Olympic_Performance_Analysis_Dashboard01/01GlobalOlympicPerformance";
+      var viz1 = new tableau.Viz(containerDiv1, url1, options);
+
+      // 2. Load Efficiency & Performance Dashboard
+      var containerDiv2 = document.getElementById("tableauViz2");
+      var url2 = "https://public.tableau.com/views/Olympic_Performance_Analysis_Dashboard02/02EfficiencyPerformance";
+      var viz2 = new tableau.Viz(containerDiv2, url2, options);
+
+      // 3. Load The Olympic Story
+      var containerDiv3 = document.getElementById("tableauStoryViz");
+      var url3 = "https://public.tableau.com/views/Olympic_Performance_Analysis_Stories/TheOlympicStory";
+      var viz3 = new tableau.Viz(containerDiv3, url3, options);
+
+    });
+  </script>
+
+  <!-- Bootstrap 5 JS -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
